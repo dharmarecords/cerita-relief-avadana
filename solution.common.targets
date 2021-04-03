@@ -1,0 +1,39 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>8.0</LangVersion>
+    <IdeInternalBuild>false</IdeInternalBuild>
+
+    <!-- Code Analysis -->
+    <AnalysisLevel>latest</AnalysisLevel>
+    <AnalysisMode>AllEnabledByDefault</AnalysisMode>
+    <CodeAnalysisTreatWarningsAsErrors Condition="'$(Configuration)' != 'Debug'">true</CodeAnalysisTreatWarningsAsErrors>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <EnforceCodeStyleInBuild Condition="'$(Configuration)' != 'Debug'">true</EnforceCodeStyleInBuild>
+
+    <!-- Compilation stuff -->
+    <TreatWarningsAsErrors Condition="'$(Configuration)' != 'Debug'">true</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)GlobalSuppressions.cs" Link="GlobalSuppressions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AssemblyAttributes.cs" Link="AssemblyAttributes.cs" />
+  </ItemGroup>
+
+  <!-- Disable bunch of stuff for non-product builds -->
+  <Choose>
+    <When Condition=" '$(DesignTimeBuild)' == 'true' OR '$(BuildingForLiveUnitTesting)' == 'true' ">
+      <PropertyGroup>
+        <IdeInternalBuild>true</IdeInternalBuild>
+        <AnalysisMode>AllDisabledByDefault</AnalysisMode>
+        <EnableNETAnalyzers>false</EnableNETAnalyzers>
+        <EnforceCodeStyleInBuild>false</EnforceCodeStyleInBuild>
+      </PropertyGroup>
+    </When>
+  </Choose>
+
+  <ItemGroup>
+    <PackageReference Include="Dawn.Guard" Version="1.12.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+</Project>

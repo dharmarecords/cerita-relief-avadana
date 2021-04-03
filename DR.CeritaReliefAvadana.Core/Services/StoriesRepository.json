@@ -1,0 +1,1416 @@
+[
+  {
+    "id": "lvista",
+    "name": {
+      "id": "Lalitavistara: Kehidupan Buddha Gautama",
+      "en": "Lalitavistara: The life of Gautama Buddha"
+    },
+    "description": {
+      "id": "Lalitavistara adalah sumber utama untuk mengetahui kehidupan awal Buddha, dari kehidupan-Nya di Surga Tuṣita sampai dengan Kecerahan dan pengajaran perama-Nya. Naskahnya dihidupkan di 120 panel relief Candi Borobudur yang menggambarkan karya ini. Buku ini memadukan rangkuan singkat naskah Lalitavistara bersama kumpulan lengkap foto panel reliefnya.",
+      "en": "The Lalitavistara is a major source for knowing the early life of the Buddha, from his life in Tuṣita Heaven up and till his Awakening and first teachings. The text was brought to life on 120 relief panes of the Borobudur Temple which illustrate the work. This book combines a brief synopsis of the text along with a complete collection of photographs of the relief panels."
+    },
+    "author": "Ānandajoti Bhikkhu",
+    "enabled": true,
+    "chapters": [
+      {
+        "id": "1",
+        "name": {
+          "en": "Conception and Pregnancy",
+          "id": "Pengandungan dan Kehamilan"
+        },
+        "slides": [
+          {
+            "path": "001 Bodhisattva in Tusita Heaven amongst the Gods.jpg",
+            "name": {
+              "en": "1 Bodhisattva in Tuṣita Heaven amongst the gods ",
+              "id": "1 Bodhisattwa di Surga Tuṣita di antara para dewa "
+            },
+            "caption": {
+              "en": "The Bodhisattva Śvetaketu stands surrounded by female attendants in his palace in Tuṣita Heaven, and all around are divine musicians (gandharva) and other gods (deva), who encourage him to be reborn for the welfare of both men and gods. We can see the detail that the artists of Borobudur were capable of even in this first panel, in the musicians with their lutes, drums, flutes and other instruments, and the marvellous depiction of hair styles, clothes and the like.",
+              "id": "Bodhisattwa Śvetaketu berdiri dikelilingi dayang-dayang di istana-Nya di Surga Tuṣita, dan di sekelilingnya ada pemusik surgawi (gandharva) dan dewa-dewa (deva) lainnya, yang menyemangati-Nya untuk lahir lagi demi kesejahteraan dewa dan manusia. Kita bisa melihat detail yang mampu dikerjakan para seniman Borobudur bahkan dalam panel pertama ini, pada pemusik dengan kecapi, gendang, seruling, dan alat musik lainnya, serta penggambaran menakjubkan mengenai gaya rambut, pakaian, dan sebagainya."
+            }
+          },
+          {
+            "path": "002 Bodhisattvas Announcement that he will be Reborn on Earth.jpg",
+            "name": {
+              "en": "2 Bodhisattva’s announcement that he will be reborn on Earth",
+              "id": "2 Pengumuman Bodhisattwa bahwa Ia akan lahir lagi di Bumi "
+            },
+            "caption": {
+              "en": "The Bodhisattva is sat on the throne Sudharma in Dharmoccaya palace, turning to the gods, who are lined up in orderly and respectful fashion, he announces his decision to return to Earth. One of the gods on the left is wearing a necklace and holding a lotus flower, while the others are holding their hands in añjali, a form of respectful salutation used in India and throughout the east.",
+              "id": "Bodhisattwa duduk di takhta Sudharma di istana Dharmoccaya, menoleh ke para dewa, yang berbaris rapi dan sikap penuh hormat, Ia mengumumkan keputusan-Nya untuk kembali ke Bumi. Salah satu dewa di kiri memakai kalung dan memegang bunga teratai,sementara dewa lainnya merangkapkan tangan dari añjali, bentuk salam hormat yang digunakan di India sampai ke Timur."
+            }
+          },
+          {
+            "path": "003 The Gods take the form of Brahmins on Earth.jpg",
+            "name": {
+              "en": "3 The gods take the form of brahmins on Earth",
+              "id": "3 Para dewa beralih wujud sebagai brahmana di Bumi"
+            },
+            "caption": {
+              "en": "The Pure Land (Śuddhāvāsika) gods, now disguised as brahmins, descend to Earth to announce that the Bodhisattva will be reborn, and to show people how to recognise him by the thirty-two characteristics that will be found on his limbs, and the two choices he will have before him: to be a Cakravarti Monarch, or to go forth and become a Samyak Sambuddha. Sections of this panel at the top have been lost and replaced with uncut stone, and other portions are quite worn down. Still some of the attendant gods have wonderfully sublime looks on their faces.",
+              "id": "Para dewa Tanah Murni (Śuddhāvāsika), yang menyamar sebagai brahmana, turun ke Bumi untuk mengumumkan bahwa Bodhisattwa akan lahir lagi, dan untuk menunjukkan kepada orang-orang bagaimana mengenali-Nya dengan 32 markah yang ada di tubuh-Nya, dan dua pilihan yang ada pada-Nya: menjadi Raja Semesta, atau meninggalkan keduniawian dan menjadi Samyak Sambuddha. Beberapa bagian atas panel ini telah hilang dan diganti dengan batu polos, dan bagian lainnya cukup terkikis. Paras beberapa dewa pengiring masih terlihat sungguh luhur."
+            }
+          },
+          {
+            "path": "004 Pratyeka Buddhas leave Earth now that the Bodhisattva will be Born.jpg",
+            "name": {
+              "en": "4 Pratyekabuddhas leave Earth now that the Bodhisattva will be born",
+              "id": "4 Para Pratyekabuddha meninggalkan Bumi karena Bodhisattwa akan lahir"
+            },
+            "caption": {
+              "en": "Other gods, represented by one in the air on the left, descend to Earth to tell the Pratyekabuddhas of the immanent birth of the Bodhisattva within twelve years. They must now leave Earth as there cannot be Pratyekabuddhas on Earth when the Buddha and his teaching are available. As we can see from the beautiful depiction of the deer on the left of the panel, these particular Pratyekabuddhas are residing in Ṛṣipatana near Vārāṇasī. The story tells that there were five-hundred residing there and that they rose into the sky and after entering the fire-element (tejadhātu), they attained Parinirvāṇa.",
+              "id": "Dewa-dewa lain, diwakili satu di udara di kiri, turun ke Bumi untuk memberitahu para Pratyekabuddha mengenai kelahiran gaib Bodhisattwa dalam dua belas tahun. Mereka kini harus meninggalkan Bumi karena tidak mungkin ada Pratyekabuddha di Bumi ketika Buddha dan ajaran-Nya masih ada. Seperti bisa kita lihat dari penggambaran indah rusa di kiri panel, para Pratyekabuddha ini berdiam di Ṛṣipatana dekat Vārāṇasī. Dalam cerita dikatakan bahwa ada lima ratus Pratyekabuddha yang tinggal di sana dan mereka melayang ke angkasa dan setelah memasuki unsur api (tejadhātu), mereka mencapai Parinirvāṇa."
+            }
+          },
+          {
+            "path": "005 Bodhisattvas Guidance to the Gods.jpg",
+            "name": {
+              "en": "5 Bodhisattva’s guidance to the gods",
+              "id": "5 Panduan Bodhisattwa kepada para dewa"
+            },
+            "caption": {
+              "en": "The Bodhisattva, sat in the Uccadhvaja Palace in Tuṣita Heaven, now gives the 108 Dharmālokamukha (Entrance into the Light of the Dharma) teachings to the gods who assembled to listen. The palace was so beautiful, it is said, that the palaces of other gods seemed like charnel grounds to them. One of the gods on the left of the panel holds a lotus flower, a sign of purity. To the right of the Bodhisattva, as we look, are the Bodhisattvas who are revealed to the gods by the power of our Bodhisattva. One of them holds what looks like ritual objects, a vajra and a mirror.",
+              "id": "Bodhisattwa, duduk di Istana Uccadhvaja di Surga Tuṣita, kini memberikan ajaran 108 Dharmālokamukha (Jalan Masuk ke Cahaya Dharma) kepada para dewa yang berkumpul untuk mendengarkan. Istana itu konon begitu indah, hingga bagi mereka, istana-istana dewa lainnya jadi seperti tempat pembuangan mayat bagi mereka. Satu dewa di kiri panel memegang bunga teratai, lambang kemurnian. Di kanan Bodhisattwa, seperti kita lihat, adalah para Bodhisattwa yang diperlihatkan kepada para dewa dengan kekuatan Bodhisattwa kita. Satu dari mereka memegang benda yang kelihatan seperti obyek ritual, yaitu halilintar dan cermin."
+            }
+          },
+          {
+            "path": "006 Passing the Crown to Maitreya.jpg",
+            "name": {
+              "en": "6 Passing the crown to Maitreya",
+              "id": "6 Menyerahkan mahkota kepada Maitreya"
+            },
+            "caption": {
+              "en": "The Bodhisattva Śvetaketu sits in the midst of the gods and passes his crown to the Bodhisattva Maitreya, thereby anointing him. He announces that he will be the next Buddha long after his own Dispensation (Sāsana) has finished, and that he will meanwhile teach the Dharma to them. To the Bodhisattva’s left we see that the gods are holding strips of writing in their hands.",
+              "id": "Bodhisattwa Śvetaketu duduk di antara para dewa dan menyerahkan mahkota-Nya kepada Bodhisattwa Maitreya, dengan demikian menobatkan Maitreya. Ia mengumumkan bahwa Maitreya akan menjadi Buddha berikutnya lama setelah Ajaran-Nya (Sāsana) sendiri telah berakhir, dan bahwa Maitreya untuk sementara akan mengajarkan Dharma kepada mereka. Di kiri Bodhisattwa kita lihat para dewa memegang pita bertulisan di tangan mereka."
+            }
+          },
+          {
+            "path": "007 Choosing the Incarnation.jpg",
+            "name": {
+              "en": "7 Choosing the incarnation",
+              "id": "7 Memilih wujud lahir"
+            },
+            "caption": {
+              "en": "The Bodhisattva asks the assembled gods what form he should assume when he enters into his rebirth womb. Many forms are suggested: the form of a child, the form of Śakra or Brahmā and many more; but the former ṛṣi Ugratejas suggests he should enter the womb as a six-tusked white elephant, in accordance with the Vedas.",
+              "id": "Bodhisattwa bertanya kepada para dewa yang berkumpul wujud apa yang sebaiknya Ia pakai ketika Ia memasuki rahim kelahiran ulang-Nya. Banyak wujud disarankan: wujud anak kecil, wujud Śakra atau Brahmā dan banyak lagi; namun mantan rṣi Ugratejas (resi mandraguna) menyarankan agar Ia masuk rahim sebagai gajah putih bergading enam, sesuai dengan Weda."
+            }
+          },
+          {
+            "path": "008 King Suddhodana and Queen Maya.jpg",
+            "name": {
+              "en": "8 King Śuddhodana and Queen Māyā",
+              "id": "8 Raja Śuddhodana dan Ratu Māyā"
+            },
+            "caption": {
+              "en": "Queen Mahā Māyā approaches King Śuddhodana in his music hall and asks permission to keep the eight Feast Day (upavasatha) vows and retire to the Palace Dhṛtarāṣṭra, where she will remain pure and engage in good deeds. The King joyfully accepts her request. On the King’s left we see musicians and poets, and standing on the right are dancing girls. The others appear to be courtiers.",
+              "id": "Ratu Mahā Māyā menemui Raja Śuddhodana di aula pagelaran musiknya dan mohon izin untuk menjalani delapan ikrar Hari Perayaan (Upavasatha) dan menyepi ke Istana Dhṛtarāṣṭra, di mana ia akan menjalani hidup suci dan melakukan perbuatan bajik. Dengan sukacita Raja merestui permohonannya. Di kiri Raja kita melihat pemusik dan pujangga, dan berdiri di kanan ada gadisgadis penari. Yang lain tampaknya penggawa."
+            }
+          },
+          {
+            "path": "009 Goddesses visit Queen Maya who has vowed Celibacy.jpg",
+            "name": {
+              "en": "9 Goddesses visit Queen Māyā who has vowed celibacy",
+              "id": "9 Para dewi mengunjungi Ratu Māyā yang telah berikrar hidup suci"
+            },
+            "caption": {
+              "en": "Keeping celibacy and the other precepts Queen Mahā Māyā sits in the Palace Dhṛtarāṣṭra and is surrounded by her waiting ladies, also goddesses, on her left and in the sky, come to pay their respects. On Queen Māyā’s right we see offerings being made, and the water jug of donation to confirm the offering. On the left of the Queen we see a woman holding a fly whisk, others with more offerings, and some musicians.",
+              "id": "Menjalani kehidupan suci dan laku moralitas lainnya Ratu Mahā Māyā duduk di Istana Dhṛtarāṣṭra dan dikelilingi para dayangnya, juga para dewi, di kirinya dan di angkasa, yang datang memberi hormat. Di kanan Ratu Māyā kita melihat ada persembahan, dan kendi air derma untuk meneguhkan persembahan itu. Di kiri Ratu kita melihat seorang perempuan memegang pengebut, orang-orang lain dengan persembahan lainnya, dan beberapa pemusik."
+            }
+          },
+          {
+            "path": "010 The Gods discuss who should accompany the Bodhisattva.jpg",
+            "name": {
+              "en": "10 The gods discuss who should accompany the Bodhisattva",
+              "id": "10 Para dewa membahas siapa yang akan menyertai Bodhisattwa"
+            },
+            "caption": {
+              "en": "The gods are met to discuss who will accompany the Bodhisattva in his earthly life, and they praise the benefits accruing to one who will go with him, from rebirth in the various heavens to attainment of Nirvāṇa. The reliefs of the gods are particularly well preserved in this panel, and we see how the sculptors were able to endow each of the gods in this ensemble with real character. On the right of the relief stands a palace of the gods, which looks much like an earthly temple.",
+              "id": "Para dewa berkumpul untuk membahas siapa yang akan menyertai Bodhisattwa dalam kehidupan-Nya di Bumi, dan mereka memuji manfaat yang akan dialami mereka yang akan menyertai-Nya, dari kelahiran ulang di berbagai surga sampai pencapaian Nirvāṇa. Relief para dewa terlestarikan dengan baik di panel ini, dan kita lihat betapa para pemahatnya mampu memberi karakter nyata kepada tiap dewa dalam kelompok ini. Di kanan relief ada istana para dewa, yang tampak sangat mirip biara duniawi."
+            }
+          },
+          {
+            "path": "011 The Gods venerate the Bodhisattva.jpg",
+            "name": {
+              "en": "11 The gods venerate the Bodhisattva",
+              "id": "11 Para dewa mengagungkan Bodhisattwa"
+            },
+            "caption": {
+              "en": "The gods once more gather round the Bodhisattva and sing his praises foreseeing the great accomplishments ahead of him in his new life, and encourage each other once more to accompany the Great Being to Earth. The sublime look on the faces of the gods as they discuss these matters is once more evident.",
+              "id": "Para dewa sekali lagi berkumpul di sekeliling Bodhisattwa dan menyanyikan pujian kepada-Nya, meramalkan pencapaian agung yang akan diraih-Nya dalam kehidupan baru-Nya, dan saling menyemangati sekali lagi untuk menemani Sang Makhluk Agung turun ke Bumi. Wajah para dewa yang penuh keagungan tatkala mereka merundingkan hal ini sekali lagi terlihat jelas."
+            }
+          },
+          {
+            "path": "012 The Bodhisattva descends to Earth accompanied by the Gods.jpg",
+            "name": {
+              "en": "12 The Bodhisattva descends to Earth accompanied by the gods ",
+              "id": "12 Bodhisattwa turun ke Bumi diiringi para dewa "
+            },
+            "caption": {
+              "en": "The gods now gather round, in great festive array, holding banners, pennants, umbrellas and whisks, as the Bodhisattva makes his descent from his heavenly palace into the womb. The Bodhisattva is shown here in full lotus meditation position, as he prepares for his mindful descent into the womb. ",
+              "id": "Para dewa kini berkumpul, dalam kirab megah meriah, memegang panji, bendera, payung, dan kebutan, tatkala Bodhisattwa turun dari istana surgawi-Nya ke dalam rahim. Bodhisattwa digambarkan di sini dalam posisi meditasi teratai penuh, tatkala Ia bersiap untuk turun penuh penyadaran ke dalam rahim. "
+            }
+          },
+          {
+            "path": "013 The Bodhisattva enters Queen Maya's Womb.jpg",
+            "name": {
+              "en": "13 The Bodhisattva enters Queen Māyā’s womb ",
+              "id": "13 Bodhisattwa memasuki rahim Ratu Māyā "
+            },
+            "caption": {
+              "en": "Queen Māyā reclines on her bed asleep, while her waiting women stand round, one of whom massages her legs. To her right we see the Bodhisattva in the form of a white elephant descending under an umbrella. We see a tall lotus rising next to the Bodhisattva, with a bowl on top of it. He sips nectar from it before entering the womb. There are seven distinct, but connected sections to this panel, on the Queen’s far left we see musicians and courtiers under a tree, next to them a couple under another tree, three small ensembles, besides the elephant and the central figure of the Queen. ",
+              "id": "Ratu Māyā berbaring tertidur di ranjangnya, sementara para dayangnya berjaga di sekitar, salah satu memijat kakinya. Di kanannya kita lihat Bodhisattwa dalam wujud gajah putih turun dinaungi payung. Kita melihat teratai tinggi mencuat di sebelah Bodhisattwa, dengan mangkuk di atasnya. Ia menyesap madu darinya sebelum memasuki rahim. Ada tujuh yang menonjol, namun saling terhubung dalam panel ini, di kiri jauh Ratu kita lihat para pemusik dan penggawa di bawah pohon, di sebelahnya sepasang lagi di bawah pohon lain, tiga kumpulan kecil, di samping gajah dan sosok utama Ratu. "
+            }
+          },
+          {
+            "path": "014 The Bodhisattva inside Queen Mayas Womb.jpg",
+            "name": {
+              "en": "14 The Bodhisattva inside Queen Māyā’s womb ",
+              "id": "14 Bodhisattwa dalam rahim Ratu Māyā "
+            },
+            "caption": {
+              "en": "The Bodhisattva is sitting in his palace inside the Queen’s womb. On either side is a Guardian of the World (Lokapāla), and more gods fly in the sky and sit on the floor around him. According to Lalitavistara, the Bodhisattva sat nested inside a palace within a palace within another palace. The gods were only able to see these palaces by coming into his direct presence. ",
+              "id": "Bodhisattwa duduk di istana-Nya di dalam rahim Ratu. Di kedua sisi ada Penjaga Dunia (Lokapāla), dan banyak dewa terbang di angkasa dan duduk di lantai mengitari-Nya. Menurut Lalitavistara, Bodhisattwa duduk dalam rangkaian istana dalam istana dalam istana lainnya. Para dewa hanya dapat melihat istana-istana ini saat berada di hadapan-Nya. "
+            }
+          },
+          {
+            "path": "015 The Queen wishes to meet King Suddhodana in the Asoka Park.jpg",
+            "name": {
+              "en": "15 The Queen wishes to meet King Śuddhodana in the Aśoka Park ",
+              "id": "15 Ratu ingin bertemu Raja Śuddhodana di Taman Aśoka "
+            },
+            "caption": {
+              "en": "Queen Māyā, under the umbrella in the relief, is accompanied by her waiting women into the Aśoka tree park, where she sends a request to her husband the King to come and meet her. The palace she has departed from is on her left, and on the far right of the panel appear to be soldiers watching over her in the park. The tree in the middle represents an Aśoka tree, which are tall and pointed. ",
+              "id": "Ratu Māyā, di bawah payung di relief, ditemani para dayangnya memasuki taman pohon Aśoka, di sana ia mengirim permintaan kepada suaminya, Raja, untuk datang dan menemuinya. Istana tempat Ratu berangkat ada di kirinya, dan di ujung kanan panel terlihat para prajurit menjaganya dalam taman. Pohon di tengah melambangkan pohon Aśoka, yang tinggi dan lancip. "
+            }
+          },
+          {
+            "path": "016 The King goes to meet the Queen.jpg",
+            "name": {
+              "en": "16 The King goes to meet the Queen ",
+              "id": "16 Raja pergi menemui Ratu "
+            },
+            "caption": {
+              "en": "King Śuddhodana, under the umbrella, approaches the park on his elephant and with his courtiers but he is unable to enter. The Queen tells her dream to him and asks for the brahmins to come and interpret the dream. Queen Māyā is surrounded by her waiting women; and a gate separates her from the King. The mahout is still on the elephant, and a bell hangs round the elephant’s neck. ",
+              "id": "Raja Śuddhodana, di bawah payung, mendekati taman menaiki gajahnya bersama para penggawanya namun ia tidak dapat masuk. Ratu memberitahu Raja mengenai mimpinya dan meminta agar para brahmana datang untuk menafsirkan mimpi tersebut. Ratu Māyā dikelilingi dayangnya; dan ada gerbang yang memisahkannya dengan Raja. Pawang masih di atas gajah, dan sebuah genta menggantung di leher gajah. "
+            }
+          },
+          {
+            "path": "017 The Queen tells her Dream to the Brahmins.jpg",
+            "name": {
+              "en": "17 The Queen tells her dream to the brahmins ",
+              "id": "17 Ratu menceritakan mimpinya kepada para brahmana "
+            },
+            "caption": {
+              "en": "Queen Māyā explains to the brahmins the substance of her dream, and asks them to interpret it for her, and the brahmins agree. The King and Queen are sitting in the palace, and all around are musicians and attendants, females to her left and males to her right. The person next to the King, with the beard, represents the brahmins. ",
+              "id": "Ratu Māyā menjelaskan ke para brahmana isi mimpinya, dan meminta mereka menafsirkan untuknya, para brahmana pun menyanggupi. Raja dan Ratu duduk di dalam istana, dan di sekeliling ada para pemusik dan dayang, perempuan di kiri dan laki-laki di kanan ratu. Orang di samping Raja, yang berjenggot, melambangkan para brahmana. "
+            }
+          },
+          {
+            "path": "018 The Brahmins interpret the Queens Dream.jpg",
+            "name": {
+              "en": "18 The brahmins interpret the Queen’s dream ",
+              "id": "18 Para brahmana menafsirkan mimpi Ratu "
+            },
+            "caption": {
+              "en": "The brahmins calm her fears, and tell them this is a good omen, and a son will be born to the Queen. They then predict he will become a Universal Monarch, but that he will renounce the home life, go forth and become a Buddha, who will bring blessings to the world. The middle section of this panel is quite worn, but to the King’s right a brahmin now sits on a raised platform, and another below him; others in the picture are part of the court, one holding a pennant, another an umbrella. ",
+              "id": "Para brahmana menenangkan rasa takut Ratu, dan memberitahu Raja dan Ratu bahwa ini adalah pertanda baik, dan seorang putra akan terlahir bagi Ratu. Mereka kemudian meramalkan bahwa Ia akan menjadi Raja Semesta, namun Ia akan meninggalkan kehidupan rumah tangga, pergi dan menjadi Buddha, yang akan membawa berkah bagi dunia. Bagian tengah panel ini cukup terkikis, namun di kanan Raja ada brahmana yang kini duduk di panggung tinggi, dan brahmana lain di bawahnya; yang lainnya di gambar menjadi bagian dari persidangan, yang satu memegang panji, yang lain memegang payung. "
+            }
+          },
+          {
+            "path": "019 The Brahmins receive Gifts.jpg",
+            "name": {
+              "en": "19 The brahmins receive gifts ",
+              "id": "19 Para brahmana menerima hadiah "
+            },
+            "caption": {
+              "en": "King Śuddhodana, pleased at the brahmins’ words, in accordance with tradition, now offers them gifts aplenty, and he also arranged for gifts to be given to others in the city. Three brahmins sit at the far left of the panel as we look, with servers bringing them the gifts the King has arranged, while the King and courtiers, one of whom has a dog, look on. On the right the palace is empty. ",
+              "id": "Raja Śuddhodana, senang dengan ucapan para brahmana, sesuai dengan tradisi, kini mempersembahkan hadiah berlimpah, dan ia juga mengatur hadiah untuk diberikan kepada brahmana lainnya di kota. Seperti kita lihat, tiga brahmana duduk di kiri jauh panel, dengan para pelayan membawakan mereka hadiah yang diberikan Raja, sementara Raja dan para penggawa, salah satunya membawa anjing, menyaksikan. Di kanan terlihat istana yang kosong. "
+            }
+          },
+          {
+            "path": "020 The Gods preparing for Queen Maya.jpg",
+            "name": {
+              "en": "20 The gods preparing for Queen Māyā ",
+              "id": "20 Para dewa membuat persiapan untuk Ratu Māyā "
+            },
+            "caption": {
+              "en": "King Śuddhodana announces he will build a palace for the Queen so that she may be comfortable during her pregnancy, and the gods assemble each vying to give a bigger and more splendid palace then the others. The King is sitting apart to one side, with his courtiers behind him, and the gods are facing him on the right. ",
+              "id": "Raja Śuddhodana mengumumkan bahwa ia akan membangun istana untuk Ratu agar ia bisa nyaman selama mengandung, dan para dewa yang berkumpul saling bersaing memberikan istana yang lebih besar dan lebih megah daripada yang lain. Raja duduk terpisah di satu sisi, dengan para penggawa di belakangnya, dan para dewa menghadap ke raja di kanan. "
+            }
+          },
+          {
+            "path": "021 Queen Maya in more than one Palace.jpg",
+            "name": {
+              "en": "21 Queen Māyā in more than one palace ",
+              "id": "21 Ratu Māyā di lebih dari satu istana "
+            },
+            "caption": {
+              "en": "All the palaces are built, and through the power of the Bodhisattva’s meditation, the Queen and the Bodhisattva appear to be living in each of them. In the panel we see three magnificent palaces, which represent the many that were built, including one by the King. Queen Māyā appears to be sitting in all three. ",
+              "id": "Semua istana selesai dibangun, dan melalui kekuatan meditasi Bodhisattwa, Ratu dan Bodhisattwa tampak menghuni setiap istana. Dalam panel kita melihat tiga istana menakjubkan, yang melambangkan banyak yang dibangun, termasuk satu oleh Raja. Ratu Māyā tampak duduk di ketiga istana. "
+            }
+          },
+          {
+            "path": "022 Queen Maya heals the Sick.jpg",
+            "name": {
+              "en": "22 Queen Māyā heals the sick ",
+              "id": "22 Ratu Māyā menyembuhkan yang sakit "
+            },
+            "caption": {
+              "en": "To continue with their good deeds, the King gives gifts to the poor, and the Queen now finds that through the power of the Bodhisattva she is able to heal the sick by placing her right hand on their heads. She also had the power to find medicinal shrubs and roots for people. Someone is seen on the left side of the panel giving out gifts, while in the centre sits Queen Māyā healing someone; behind her are courtiers, and to the far right guards sit under a tree. ",
+              "id": "Untuk melanjutkan perbuatan baik mereka, Raja memberi derma kepada orang miskin, dan Ratu kini mendapati bahwa melalui kekuatan Bodhisattwa ia mampu menyembuhkan orang sakit dengan menaruh tangan kanannya di kepala mereka. Ia juga memiliki kekuatan menemukan tanaman dan akarakaran obat untuk orang-orang. Seseorang terlihat di kiri panel sedang memberi derma, sementara di tengah duduklah Ratu Māyā sedang menyembuhkan seseorang; di belakangnya ada penggawa, dan di kanan jauh para pengawal duduk di bawah pohon. "
+            }
+          },
+          {
+            "path": "023 The Sakyans give Gifts to the Poor.jpg",
+            "name": {
+              "en": "23 The Śākyans give gifts to the poor ",
+              "id": "23 Suku Śākya memberi derma kepada yang miskin "
+            },
+            "caption": {
+              "en": "The King and other leading Sākyans now give out largesse to the poor at the four gates and throughout the city in celebration of the conception of the Bodhisattva. Various scenes of gift-giving are assembled in one piece, and we can see them handing out food, clothes and other gifts to all who ask. Notice the very realistic depiction of a fruiting coconut tree. ",
+              "id": "Raja dan para tokoh suku Sākya kini memberi derma besar-besaran kepada kaum miskin di empat gerbang dan seluruh kota untuk merayakan dikandungnya Bodhisattwa. Berbagai adegan pemberian derma dikumpulkan dalam satu panel, dan kita bisa melihat mereka menyerahkan makanan, pakaian, dan derma lainnya kepada semua yang meminta. Perhatikan penggambaran yang sangat realistik dari pohon kelapa yang berbuah. "
+            }
+          },
+          {
+            "path": "024 King Suddhodana visits Queen Maya.jpg",
+            "name": {
+              "en": "24 King Śuddhodana visits Queen Māyā ",
+              "id": "24 Raja Śuddhodana mengunjungi Ratu Māyā "
+            },
+            "caption": {
+              "en": "During the pregnancy the King kept the fast on the Poṣadha day, and would not perform any works of state, but only study and learn Dharma. In this panel the King is sat on the right and is visiting Queen Māyā, who is seated at the front, and asking after her health. Her ladies-in-waiting in the penance grove. ",
+              "id": "Selama Ratu mengandung, Raja berpuasa pada hari Poṣadha, and tidak akan melakukan tugas kerajaan, namun hanya mempelajari Dharma. Di panel ini Raja duduk di kanan dan mengunjungi Ratu Māyā, yang duduk di depan, dan menanyakan kesehatannya. Para dayang-dayangnya di hutan pertapaan. "
+            }
+          },
+          {
+            "path": "025 The Portents before the Bodhisattvas Birth.jpg",
+            "name": {
+              "en": "25 The portents before the Bodhisattva’s birth ",
+              "id": "25 Pertanda sebelum kelahiran Bodhisattwa "
+            },
+            "caption": {
+              "en": "In the tenth month, at the terminus of the pregnancy, thirty-two portents appear heralding the birth of the Bodhisattva, among them lions descend from the Himalaya to the city gates, but do no harm, elephants worship the King, and gods gather round. The King is second left of the four elephants in the panel, on his lap, sits one of the gods, and another is on the right. The lions are seated at the gate of the city. ",
+              "id": "Pada bulan kesepuluh, menjelang akhir kehamilan, muncul tiga puluh dua pertanda yang mendahului kelahiran Bodhisattwa, salah satunya adalah singa-singa turun dari Himalaya ke gerbang kota, namun tidak melukai, gajah-gajah menghormat Raja, dan para dewa berhimpun. Raja ada di bagian kedua dari empat gajah dalam panel kiri, di pangkuannya duduk sesosok dewa, dan dewa lainnya di kanan. Singa-singa duduk di gerbang kota. "
+            }
+          },
+          {
+            "path": "026 Queen Mayas Time Draws Near.jpg",
+            "name": {
+              "en": "26 Queen Māyā’s time draws near ",
+              "id": "26 Masa Ratu Māyā melahirkan sudah dekat "
+            },
+            "caption": {
+              "en": "The Queen is now approaching her term and requests to go to the garden, as the natural setting will bring peace to her mind; the King gives his consent and makes preparations for the journey. It appears on the right of the panel that the Queen is preparing to leave for the garden, and that in the centre the king gives his final orders to his servants. Courtiers, some bearing gifts, are on the left of the panel. ",
+              "id": "Ratu kini mendekati masa melahirkan dan minta pergi ke taman, karena suasana alam akan memberi kedamaian bagi batinnya; Raja memberi restunya dan melakukan persiapan untuk perjalanan itu. Tampak di kanan panel Ratu sedang bersiap meninggalkan taman, dan di tengah, Raja menyampaikan perintah akhirnya kepada para pelayannya. Penggawa, beberapa membawa hadiah, ada di kiri panel. "
+            }
+          },
+          {
+            "path": "027 Queen Maya traveling to Lumbini.jpg",
+            "name": {
+              "en": "27 Queen Māyā traveling to Lumbini ",
+              "id": "27 Ratu Māyā pergi ke Lumbini "
+            },
+            "caption": {
+              "en": "Queen Māyā has ascended the chariot specially made by the King, which no one else is allowed to ride in, and is being taken to the Lumbini Park. It is said in the story that the Four Great Kings drew the chariot, and that Śakra cleared the path and Brahmā led the way. ",
+              "id": "Ratu Māyā telah menaiki kereta yang dibuat khusus oleh Raja, tanpa ada orang lain yang diizinkan ikut naik, dan dibawa ke Taman Lumbini. Konon dalam cerita itu Empat Maharaja Dewa menarik kereta, Śakra membersihkan jalan, dan Brahmā memandu jalan. "
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": {
+          "en": "Birth and Youth",
+          "id": "Kelahiran dan Masa Muda"
+        },
+        "slides": [
+          {
+            "path": "028 Queen Maya gives Birth.jpg",
+            "name": {
+              "en": "28 Queen Māyā gives birth ",
+              "id": "28 Ratu Māyā melahirkan "
+            },
+            "caption": {
+              "en": "Queen Māyā is standing in the beautiful Lumbini Park and is holding a branch of the white fig tree (plakṣa) as she prepares to give birth. At her foot, holding water jars for washing, kneel Śakra and Brahmā Sahampatī, waiting to receive the child. On the left of the panel stand various other gods looking on as the Bodhisattva takes the seven steps on the lotus flowers. The pavilion in which the Bodhisattva had resided in the womb, was taken away to make a chaitya by the gods. ",
+              "id": "Ratu Māyā berdiri di Taman Lumbini yang indah dan memegang dahan pohon banyan putih (plakṣa) tatkala ia bersiap melahirkan. Di kakinya, memegang kendi air untuk cuci, Śakra dan Brahmā Sahampatī berlutut, menunggu menyambut anak itu. Di kiri panel berdiri berbagai dewa lain melihat ketika Bodhisattwa membuat tujuh langkah di bunga teratai. Anjungan tempat Bodhisattwa berdiam dalam rahim, diambil untuk dijadikan cetiya oleh para dewa. "
+            }
+          },
+          {
+            "path": "029 The King holds a Festival to celebrate the Birth.jpg",
+            "name": {
+              "en": "29 The King holds a festival to celebrate the birth ",
+              "id": "29 Raja mengadakan perayaan untuk merayakan kelahiran "
+            },
+            "caption": {
+              "en": "After the birth of the Bodhisattva King Śuddhodana held a festival for seven days to celebrate the birth, and during that time many people came bringing good news about other auspicious events in the land; Śakra and Brahmā also joined in disguise. We see the King entertaining some of the ṛṣis who visited from afar, in the centre he sits talking to one; and on the left of the panel gifts are being brought to another. ",
+              "id": "Setelah kelahiran Bodhisattwa, Raja Śuddhodana mengadakan perayaan selama tujuh hari untuk merayakan kelahiran itu, dan selama masa itu banyak orang datang membawa kabar baik mengenai peristiwa baik lainnya di negeri itu, Śakra dan Brahmā turut serta dalam samaran mereka. Kita melihat Raja menjamu beberapa resi yang datang berkunjung dari jauh, di tengah panel, raja duduk bicara ke satu resi, dan di bagian kiri panel, hadiah dibawakan untuk resi lainnya. "
+            }
+          },
+          {
+            "path": "030 The Bodhisatta is given to Gautami.jpg",
+            "name": {
+              "en": "30 The Bodhisatta is given to Gautamī ",
+              "id": "30 Bodhisattwa diberikan kepada Gautamī "
+            },
+            "caption": {
+              "en": "After the passing away of Queen Māyā, whose life-span was only for seven days after the birth, her sister, Mahā Prajāpatī Gautamī, who was also a queen, took care of the boy and brought him up as her own son. The King sits in the palace with the Bodhisattva on his lap, in front of him Gautamī is stretching forward about to take the Bodhisattva into her charge. On the left and right of the panel we see people sitting under palm trees, those on the left are holding caskets. ",
+              "id": "Setelah Ratu Māyā mangkat, yang jangka kehidupannya hanya sampai tujuh hari setelah kelahiran itu, adik kandungnya, Mahā Prajāpatī Gautamī, yang juga seorang ratu, mengasuh dan membesarkan anak itu seperti putranya sendiri. Raja duduk di istana dengan Bodhisattwa di pangkuannya, di depannya Gautamī mencondongkan tubuh hendak mengambil Bodhisattwa dalam asuhannya. Di kiri dan kanan panel kita lihat orang-orang duduk di bawah pohon palem, mereka yang di kiri memegang kotak kecil. "
+            }
+          },
+          {
+            "path": "031 Asita predicts the Bodhisattva will become Buddha.jpg",
+            "name": {
+              "en": "31 Asita predicts the Bodhisattva will become Buddha ",
+              "id": "31 Asita meramal Bodhisattwa akan menjadi Buddha "
+            },
+            "caption": {
+              "en": "The great sage Asita arrives and asks to see the newborn child, who is brought to him. Asita recognises the thirty-two marks of a Great Man (Mahāpuruṣa) on the Bodhisattva, and predicts he will become a Buddha, and then cries, which worries the King, but Asita says it is only because he will not himself live long enough to hear the Buddha teach. The events described above are on the left of the panel, on the right we see more brahmins, who had predicted two courses for the boy’s life: either he would be a Universal Monarch (Cakravarti), or if he should go forth, he would become a Buddha. ",
+              "id": "Petapa agung Asita tiba dan minta melihat bayi yang baru lahir ini, yang dibawa kepadanya. Asita mengenali tiga puluh dua markah Manusia Agung (Mahāpuruṣa) pada Bodhisattwa, dan meramalkan bahwa Ia akan menjadi seorang Buddha, lalu menangis, yang membuat Raja cemas, namun Asita mengatakan bahwa ini hanya karena ia sendiri tidak akan hidup cukup panjang untuk mendengarkan Buddha mengajar. Peristiwa yang diuraikan di atas ada di kiri panel, sedangkan di kanan kita melihat lebih banyak brahmana, yang meramalkan dua jalur dalam kehidupan anak itu: apakah Ia akan menjadi Raja Semesta (Cakravarti), atau jika Ia meninggalkan keduniawian, Ia akan menjadi seorang Buddha. "
+            }
+          },
+          {
+            "path": "032 The Gods worship Sarvarthasiddha.jpg",
+            "name": {
+              "en": "32 The gods revere Sarvārthasiddha ",
+              "id": "32 Para dewa menghormat Sarvārthasiddha "
+            },
+            "caption": {
+              "en": "The gods, headed by Sureśvara (also known as Maheśvara) now approach the city and request to be let into the palace to see the Bodhisattva, which King Śuddhodana grants. In Lalitavistara the Bodhisattva’s name is given as Sarvārthasiddha, a variant on the more well-known name of Siddhartha, but having the same meaning: one who will fulfill all objectives. ",
+              "id": "Para dewa, dipimpin oleh Sureśvara (juga dikenal sebagai Maheśvara) kini mendekati kota dan mohon diperkenankan masuk ke istana untuk melihat Bodhisattwa, yang dikabulkan Raja Śuddhodana. Dalam Lalitavistara, nama yang diberikan kepada Bodhisattwa adalah Sarvārthasiddha, ragam dari nama yang lebih terkenal, yaitu Siddhartha, namun punya arti sama: yang akan mencapai semua tujuan. "
+            }
+          },
+          {
+            "path": "033 The King is requested to take Sarvarthasiddha to the Temple.jpg",
+            "name": {
+              "en": "33 The King is requested to take Sarvārthasiddha to the temple ",
+              "id": "33 Raja diminta membawa Sarvārthasiddha ke kuil "
+            },
+            "caption": {
+              "en": "The Śākyan elders now advise the King that he must take the child to the temple, but the child himself questions this saying that the gods had worshipped him at his birth, so why would he now worship them? The panel shows the Bodhisattva sitting on the lap of the King, and in front of them the elders, both male and female have gathered. Behind them are others bearing clothes, a pot and a fly whisk. ",
+              "id": "Para sesepuh kaum Śākya kini menasihati Raja bahwa ia wajib membawa anak itu ke kuil, namun Bodhisattwa sendiri mempertanyakan hal ini dengan mengatakan bahwa sejak Ia lahir para dewa telah memuja-Nya, jadi mengapa sekarang Ia perlu menyembah mereka? Panel ini menunjukkan Bodhisattwa duduk di pangkuan Raja, dan di depan mereka berkumpul para sesepuh, laki-laki dan perempuan. Di belakang mereka ada banyak lainnya yang membawa kain, kendi, dan pengebut. "
+            }
+          },
+          {
+            "path": "034 The Procession to the Temple.jpg",
+            "name": {
+              "en": "34 The procession to the temple ",
+              "id": "34 Arak-arakan menuju kuil "
+            },
+            "caption": {
+              "en": "The King has the city made ready and bedecked for the festive occasion and the Bodhisattva is driven through the streets in a magnificent carriage. The King sits in the front section with the Bodhisattva, and behind in the vehicle are other senior Śākyans. Before the carriage go courtiers holding up umbrella and banners. We can see by the legs that the carriage is pulled by four horses. ",
+              "id": "Raja memastikan kota dalam keadaan siap dan dirias untuk perayaan dan Bodhisattwa dibawa melintasi jalanan dalam kereta megah. Raja duduk di bagian depan bersama Bodhisattwa, dan di bagian belakang kendaraan ada para tetua Śākya lainnya. Di depan kereta ada para penggawa membawa payung dan bendera. Kita bisa melihat dari kakinya bahwa kereta itu dihela oleh empat kuda. "
+            }
+          },
+          {
+            "path": "035 The Statues worship Sarvarthasiddha.jpg",
+            "name": {
+              "en": "35 The statues worship Sarvārthasiddha ",
+              "id": "35 Arca-arca bersujud kepada Sarvārthasiddha "
+            },
+            "caption": {
+              "en": "When they arrive at the temple, all the idols of the gods Siva, Skanda, Nārāyaṇa, Kubera and others come down from their pedestals to worship the Bodhisattva. Here the Bodhisattva is portrayed as a young boy, with the King his father behind him, and umbrellas over them both. In front of them are the gods and the brahmin priests, and behind them is the temple. ",
+              "id": "Saat mereka tiba di kuil, semua arca dewa Siva, Skanda, Nārāyaṇa, Kubera dan yang lainnya turun dari altar mereka untuk bersujud kepada Bodhisattwa. Di sini Bodhisattwa dilukiskan sebagai anak belia, dengan Raja, ayah-Nya, di belakang-Nya, dan payung menaungi mereka berdua. Di depan mereka para dewa dan pendeta brahmana, dan kuil di belakang mereka. "
+            }
+          },
+          {
+            "path": "036 Aristocrats present Jewelery to Sarvarthasiddha.jpg",
+            "name": {
+              "en": "36 Aristocrats present jewelry to Sarvārthasiddha ",
+              "id": "36 Para bangsawan mempersembahkan perhiasan kepada Sarvārthasiddha "
+            },
+            "caption": {
+              "en": "The King now approaches the brahmins and advises them that the Bodhisattva must have ornaments made that are suitable for him, but when they are brought to the Prince, they all fade owing to the lustre of the Bodhisattva’s body. There are two scenes in the panel, on the right we see the ornaments being presented to the Bodhisattva, and on the left the goddess Vimalā explains to the King why they do not shine on the prince’s body. ",
+              "id": "Raja kini menghampiri para brahmana dan menyarankan mereka bahwa Bodhisattwa harus dibuatkan perhiasan yang sesuai dengan-Nya, namun saat perhiasan dibawa kepada Pangeran, semuanya memudar karena kilau tubuh Bodhisattwa. Ada dua adegan di panel ini, di kanan kita lihat perhiasan dipersembahkan kepada Bodhisattwa, dan di kiri Dewi Vimalā menjelaskan kepada Raja mengapa perhiasan tak berkilau di tubuh Pangeran. "
+            }
+          },
+          {
+            "path": "037 Sarvarthasiddha goes to School.jpg",
+            "name": {
+              "en": "37 Sarvārthasiddha goes to school ",
+              "id": "37 Sarvārthasiddha pergi ke sekolah "
+            },
+            "caption": {
+              "en": "It is now time for the Prince to attend writing school, and he is escorted there with the King leading along with ten thousand other children and great gifts for the revered teacher Viśvāmitra, who falls on his knees when the Prince enters. The small building behind Viśvāmitra represents the school, notice the two peacocks sitting on the perch above it. The ashrams of the sages are always portrayed as being in natural and idyllic surroundings in Indian literature. ",
+              "id": "Inilah waktunya bagi Pangeran untuk mengikuti sekolah menulis, dan ia diantar ke sana oleh Raja yang memimpin sepuluh ribu anak lainnya serta banyak hadiah bagi guru terhormat Viśvāmitra, yang bersujud ketika Pangeran masuk. Bangunan kecil di belakang Viśvāmitra melambangkan sekolah, perhatikan dua merak bertengger di ranting di atasnya. Asrama para bijak selalu digambarkan berada di lingkungan alami dan rindang dalam sastra India. "
+            }
+          },
+          {
+            "path": "038 Sarvarthasiddha studying in the Classroom.jpg",
+            "name": {
+              "en": "38 Sarvārthasiddha studying in the classroom ",
+              "id": "38 Sarvārthasiddha belajar di ruang kelas "
+            },
+            "caption": {
+              "en": "When it came to his first lesson the Prince asked which of the sixty-four named scripts Viśvāmitra would teach him? The Prince used the occasion of being taught the letters to expound the Dharma so that the other pupils could benefit, and Lalitavistara declares that is the real reason he attended school, not because he needed to learn anything. The long strips that the students hold are palm leaf books, which were in use for nearly 2,000 years before the advent of modern printing techniques. ",
+              "id": "Kala tiba pelajaran pertamanya, Pangeran bertanya yang mana dari enam puluh empat tulisan yang Viśvāmitra akan ajarkan kepadanya? Pangeran menggunakan peristiwa diajarkan aksara untuk membabar Dharma sehingga para siswa lainnya bisa mendapat manfaat, dan Lalitavistara menyatakan bahwa inilah alasan sebenarnya Ia menghadiri sekolah, bukan karena Ia perlu belajar apa pun. Pita panjang yang dipegang para siswa adalah kitab daun palem, yang digunakan selama hampir 2.000 tahun sebelum munculnya teknik percetakan modern. "
+            }
+          },
+          {
+            "path": "039 Sarvarthasiddha in the Villages.jpg",
+            "name": {
+              "en": "39 Sarvārthasiddha in the villages ",
+              "id": "39 Sarvārthasiddha di perdesaan "
+            },
+            "caption": {
+              "en": "The Bodhisattva one day, without informing his parents, took a carriage and drove into the countryside to see the villages. In the panel we see the Bodhisattva holding a lotus flower and in a great procession, with pennants and flags, being led by his friends who had encouraged him to make the trip. The carriage is being drawn by a pair of horses. ",
+              "id": "Suatu hari, Bodhisattwa, tanpa memberitahu orangtua-Nya, membawa kereta dan mengendara ke luar kota untuk melihat desa-desa. Di panel kita lihat Bodhisattwa memegang bunga teratai dan dalam iringiringan besar, dengan panji dan bendera, dipandu oleh teman-teman-Nya yang menyemangati-Nya untuk melakukan perjalanan itu. Kereta itu dihela oleh sepasang kuda. "
+            }
+          },
+          {
+            "path": "040 Sarvarthasiddha meditating under a Guava Tree.jpg",
+            "name": {
+              "en": "40 Sarvārthasiddha meditating under a rose-apple tree ",
+              "id": "40 Sarvārthasiddha bersemadi di bawah pohon jambu air "
+            },
+            "caption": {
+              "en": "The Bodhisattva coming to understand the dangers in farming sat down under a rose-apple tree and began to meditate, attaining the four stages of concentration (dhyāna). The sun moved on while he was meditating, but the shadow remained above him to keep him cool. Five ṛṣis, seen on the left of the panel, who were passing through the sky were unable to pass over the Bodhisattva, so after descending, they paid homage to him. ",
+              "id": "Bodhisattwa yang mulai memahami bahaya membajak duduk di bawah pohon jambu air dan mulai bersemadi, mencapai empat tataran keheningan (dhyāna). Matahari bergerak selagi Ia bersemadi, namun bayangan tetap menaungi-Nya untuk menjaga-Nya tetap teduh. Lima resi, yang terlihat di kiri panel, yang melintasi angkasa tidak mampu lewat di atas Bodhisattwa, sehingga setelah mendarat, mereka memberi hormat kepada-Nya. "
+            }
+          },
+          {
+            "path": "041 The Family decide to request Sarvarthasiddha to Marry.jpg",
+            "name": {
+              "en": "41 The Family decide to request Sarvārthasiddha to marry ",
+              "id": "41 Keluarga memutuskan memohon Sarvārthasiddha untuk menikah "
+            },
+            "caption": {
+              "en": "King Śuddhodana is seen sat in his court, and around him are the family elders, both male and female. They argue that he must have his son married, so he will not go forth, but become a Universal Monarch. The King agreed to this strategy, and requested that a search be made for a suitable maiden. ",
+              "id": "Raja Śuddhodana terlihat duduk di istananya, dan di sekelilingnya ada sesepuh keluarga, laki-laki maupun perempuan. Mereka mendesak bahwa ia harus menikahkan putranya, agar Pangeran tidak meninggalkan keduniawian, namun menjadi Raja Semesta. Raja menyetujui siasat ini, dan meminta agar diadakan pencarian gadis yang sesuai. "
+            }
+          },
+          {
+            "path": "042 Presenting a Ring to Gopa.jpg",
+            "name": {
+              "en": "42 Presenting a ring to Gopā ",
+              "id": "42 Memberikan cincin kepada Gopā "
+            },
+            "caption": {
+              "en": "Then the King has all the maidens assemble and present themselves to the Prince, but they were unable to bear his magnificent presence, and quickly withdrew; last came Gopā, who was steady before the Prince, and he gave her his ring. Gopā, otherwise known as Yaśodharā and Rāhulamātā, sits at the feet of the Prince worshipping, while the Prince is offering the ring to her. Behind Gopā are the other maidens. ",
+              "id": "Kemudian Raja memerintahkan semua gadis berkumpul dan menampilkan diri mereka kepada Pangeran, namun mereka tidak kuat menahan pembawaan Pangeran yang menakjubkan, dan bergegas menarik diri; terakhir datanglah Gopā, yang mantap di depan Pangeran, dan Ia pun memberikan cincin-Nya kepada Gopā. Gopā, yang juga dikenal sebagai Yaśodharā dan Rāhulamātā, duduk memberi hormat di kaki Pangeran, sementara Pangeran memberikan cincin kepadanya. Di belakang Gopā ada gadis-gadis lainnya. "
+            }
+          },
+          {
+            "path": "043 Sarvarthasiddha consenting to a Contest.jpg",
+            "name": {
+              "en": "43 Sarvārthasiddha consenting to a contest ",
+              "id": "43 Sarvārthasiddha menyetujui sayembara "
+            },
+            "caption": {
+              "en": "The King now sends a request to the Śākyan Daṇḍapāṇī, asking for his daughter for the Prince, but the elder insists that the Prince must first prove himself in the various arts, and proclamation is sent out that the Prince will show his skills in seven days time. The King and Gopā’s father sit in the palace, with the courtiers and elders around them. Notice the peacocks who are positioned on the roof of the palace; also the various earrings portrayed on the courtiers. ",
+              "id": "Raja kini mengirim permintaan kepada Daṇḍapāṇī, warga Śākya, untuk menikahkan putrinya kepada Pangeran, namun sesepuh itu bersikeras bahwa Pangeran harus membuktikan diri dahulu dalam berbagai ilmu, dan pengumuman pun disiarkan bahwa Pangeran akan menunjukkan keahlian-Nya dalam waktu tujuh hari. Raja dan ayah Gopā duduk di istana, dengan para penggawa dan sesepuh di sekitar mereka. Perhatikan merak-merak yang ditempatkan di atap istana; juga beragam anting-anting terlihat di telinga para penggawa. "
+            }
+          },
+          {
+            "path": "044 Devadatta beats an Elephant to Death.jpg",
+            "name": {
+              "en": "44 Devadatta beats an elephant to death ",
+              "id": "44 Devadatta menghantam gajah sampai mati "
+            },
+            "caption": {
+              "en": "Devadatta, who was a cousin of the Prince, saw the white elephant that was brought to the city for Sarvārthasiddha, and in a fit of jealousy, killed it. Devadatta had great power, and it is said in Lalitavistara that he killed the elephant with a single blow of his hand, who died, blocking the entrance to the city. ",
+              "id": "Devadatta, sepupu Pangeran, melihat gajah putih yang dibawa ke kota untuk Sarvārthasiddha, dan dalam luapan keirian, membunuhnya. Devadatta memiliki kekuatan dahsyat, dan disebutkan dalam Lalitavistara bahwa ia membunuh gajah itu dengan sekali hantam, yang mati, menghalangi jalan masuk ke kota. "
+            }
+          },
+          {
+            "path": "045 Sundarananda removes the Elephant.jpg",
+            "name": {
+              "en": "45 Sundarananda removes the elephant ",
+              "id": "45 Sundarananda menyingkirkan gajah "
+            },
+            "caption": {
+              "en": "As can be seen most of the panel, and the central scene is missing now. It depicted the Prince’s brother Sundarananda, who was travelling in a chariot, removing the elephant to outside the city gates. This is a badly damaged panel, but we can identify it by the wheel of the chariot Sundarananda was travelling in. It is said he removed the elephant outside of the city, and that the Bodhisattva removed it even further away. We can see the trunk and feet of the elephant on the far left of the relief. ",
+              "id": "Seperti terlihat, sebagian besar panel, dan adegan utamanya kini sudah hilang. Ini menggambarkan saudara Pangeran, Sundarananda, yang sedang bepergian dengan kereta kuda, menyingkirkan gajah ke luar gerbang kota. Ini panel yang rusak berat, namun kita dapat mengenalinya melalui roda kereta yang dinaiki Sundarananda. Konon ia menyingkirkan gajah itu ke luar kota, dan Bodhisattwa menyingkirkannya bahkan lebih jauh lagi. Kita bisa melihat belalai dan kaki gajah di kiri ujung relief. "
+            }
+          },
+          {
+            "path": "046 Sarvarthasiddha excels at Mathematics.jpg",
+            "name": {
+              "en": "46 Sarvārthasiddha excels at mathematics ",
+              "id": "46 Sarvārthasiddha unggul dalam matematika "
+            },
+            "caption": {
+              "en": "The Prince is tested on his mathematical knowledge, and the court astrologer sits in judgement. First Sarvārthasiddha questions the others, but they are unable to answer his questions; then they question the Prince, and he answers all promptly. The Prince is depicted in the centre of this scene with a halo around his head. Sitting on his left is the court astrologer, who declares that he, old though he is, must learn from the Prince. To the Prince’s right sit the gods. ",
+              "id": "Pangeran diuji pengetahuan matematika-Nya, dan ahli perbintangan istana duduk sebagai penguji. Mulanya, Sarvārthasiddha menanyai yang lain, namun mereka tidak mampu menjawab pertanyaan-Nya; kemudian mereka menanyai Pangeran, dan Ia menjawab semuanya dengan mantap. Pangeran digambarkan di tengah adegan ini dengan lingkaran cahaya di sekeliling kepala-Nya. Duduk di kiri-Nya adalah ahli perbintangan istana, yang menyatakan bahwa, meski sudah uzur, ia harus belajar dari Pangeran. Di kanan Pangeran, para dewa duduk. "
+            }
+          },
+          {
+            "path": "047 Sarvarthasiddha wins a Competition.jpg",
+            "name": {
+              "en": "47 Sarvārthasiddha wins a competition ",
+              "id": "47 Sarvārthasiddha memenangi satu pertandingan "
+            },
+            "caption": {
+              "en": "It is unclear what this panel depicts exactly. In the story the Prince goes on to compete with the others in vaulting, jumping, and running. The next major competition mentioned in Lalitavistara is wrestling, but none of these can be identified from the worn panel in front of us. The Prince, of course, succeeds in all the competitions. ",
+              "id": "Tidak jelas apa yang sesungguhnya digambarkan panel ini. Dalam ceritanya Pangeran lalu bertanding dengan peserta lain dalam lempar lembing, lompat, dan lari. Pertandingan utama berikutnya yang disebut di Lalitavistara adalah gulat, namun tidak satu pun dapat dikenali dari panel yang sudah tergerus di depan kita. Pangeran, tentu saja, berhasil dalam semua pertandingan. "
+            }
+          },
+          {
+            "path": "048 Sarvarthasiddha wins another Competition.jpg",
+            "name": {
+              "en": "48 Sarvārthasiddha wins another competition ",
+              "id": "48 Sarvārthasiddha memenangi pertandingan lainnya "
+            },
+            "caption": {
+              "en": "Again this panel is unclear, but it must be one of the competitions described above. The Prince is standing in the centre, and a courtier is holding an umbrella above him. It may be that to his right stand the other princes, his competitors, who are unable to compare with Sarvārthasiddha, while behind him presumably sits the King. ",
+              "id": "Panel ini pun tidak jelas, namun ini pasti salah satu pertandingan yang digambarkan di atas. Pangeran berdiri di tengah, dan penggawa memegang payung di atas-Nya. Mungkin saja di kanan-Nya berdiri para pangeran lain, pesaingnya, yang tak mampu menandingi Sarvārthasiddha, sementara yang duduk di belakang-Nya sepertinya Raja. "
+            }
+          },
+          {
+            "path": "049 Sarvarthasiddha wins an Archery Competition.jpg",
+            "name": {
+              "en": "49 Sarvārthasiddha wins an archery competition ",
+              "id": "49 Sarvārthasiddha memenangi pertandingan memanah "
+            },
+            "caption": {
+              "en": "Unlike the previous ones, this panel is clear, and depicts the archery contest that the Prince excels in. Here we see him shooting from the bow of his grandfather Siṁhahanu (Lions’ Jaw), which no one else can so much as string. The Prince, however, not only draws the bow, but can hit his targets many leagues away, including piercing with one arrow seven palm trees, which are depicted on the right of the panel. ",
+              "id": "Tak seperti beberapa panel sebelumnya, panel ini jelas, dan menggambarkan pertandingan memanah yang Pangeran ungguli. Di sini, kita melihat-Nya menembak dari busur kakeknya Siṁhahanu (Rahang Singa), yang talinya pun tak mampu ditarik oleh siapa pun. Pangeran, akan tetapi, tidak hanya menarik busur itu, namun dapat mengenai sasaran-Nya yang sejauh beberapa kilometer, termasuk menembus tujuh pohon palem dengan satu anak panah, yang digambarkan di kanan panel. "
+            }
+          },
+          {
+            "path": "050 Dandapani gives his Daughter to the King for the Prince.jpg",
+            "name": {
+              "en": "50 Daṇḍapāṇī gives his daughter to the King for the Prince ",
+              "id": "50 Daṇḍapāṇī memberikan putrinya kepada Raja untuk Pangeran "
+            },
+            "caption": {
+              "en": "Here we see Daṇḍapāṇi sitting before the King and agreeing that his daughter Gopā, pictured worshipping on the right of the King, will marry the young Prince. Again, the panel is very worn out, but we see so many sublime expressions depicted on the faces of the King, the Princess and her attendants. ",
+              "id": "Di sini kita lihat Daṇḍapāṇi duduk di depan Raja dan merestui bahwa putrinya Gopā, yang digambarkan memberi hormat di kanan Raja, akan menikahi Pangeran muda. Panel ini pun sangat tergerus, namun kita melihat begitu banyak ekspresi halus yang digambarkan di wajah Raja, Putri, dan para pelayannya. "
+            }
+          },
+          {
+            "path": "051 Sarvarthasiddha and Gopa in the Palace.jpg",
+            "name": {
+              "en": "51 Sarvārthasiddha and Gopā in the palace ",
+              "id": "51 Sarvārthasiddha dan Gopā dalam istana "
+            },
+            "caption": {
+              "en": "There appear to be two scenes depicted here, in the one on the left of the panel, we see the Prince and Gopā in the palace, and she is being presented as the chief of the ladies at court. On the right we see Gopā defending herself in a famous passage where she explains why she doesn’t wear a veil, saying that those who are virtuous are covered by their good deeds, and have no need of a face veil. ",
+              "id": "Tampak ada dua adegan digambarkan di sini, yang di kiri panel, kita melihat Pangeran dan Gopā di istana, dan Gopa diperkenalkan sebagai permaisuri istana. Di kanan kita melihat Gopā membela dirinya dalam kutipan terkenal di mana ia menjelaskan mengapa ia tidak mengenakan kerudung, mengatakan bahwa mereka yang bajik akan diliputi perbuatan bajik mereka, sehingga tidak memerlukan penutup wajah. "
+            }
+          },
+          {
+            "path": "052 The Gods visit the Bodhisattva.jpg",
+            "name": {
+              "en": "52 The Gods visit the Bodhisattva ",
+              "id": "52 Para dewa mengunjungi Bodhisattwa "
+            },
+            "caption": {
+              "en": "The gods now very much desire to visit the Bodhisattva and to pay their respects to him looking forward to the time when he will attain Awakening. The gods are lined up on the left of the panel, and the Bodhisattva sits on the mid-right and is receiving a gift from someone. There is a very fine relief of the musicians at court, playing a lute and another string instrument, and below someone plays a flute. ",
+              "id": "Para dewa kini sangat ingin mengunjungi Bodhisattwa dan memberi hormat kepada-Nya, menanti waktu kapan ia akan mencapai Kecerahan. Para dewa berjajar di kiri panel, dan Bodhisattwa duduk di kanan tengah, menerima hadiah dari seseorang. Ada relief pemusik istana yang sangat halus, memainkan kecapi dan alat musik senar lainnya, dan di bawahnya seseorang memainkan seruling. "
+            }
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": {
+          "en": "Signs and Renunciation",
+          "id": "Pertanda dan Pelepasan Keduniawian"
+        },
+        "slides": [
+          {
+            "path": "053 The Gods remind Sarvarthasiddha of his Duties.jpg",
+            "name": {
+              "en": "53 The gods remind Sarvārthasiddha of his duties ",
+              "id": "53 Para dewa mengingatkan Sarvārthasiddha akan tugas-Nya"
+            },
+            "caption": {
+              "en": "While the Prince is in his quarters, surrounded by his court, many gods and other great beings come and remind him of his duty to go forth and strive for Buddhahood. Lalitavistara explains that the Bodhisattva did not need to be exhorted, as he knew the right time for everything, but it is the tradition that the gods should make their request. ",
+              "id": "Selagi Pangeran ada dalam kamar-Nya, dikitari oleh para pelayan-Nya, banyak dewa dan makhluk agung lain datang dan mengingatkan tugas-Nya untuk meninggalkan keduniawian dan berjuang demi Kebuddhaan. Lalitavistara menjelaskan bahwa Bodhisattwa tidak perlu dinasihati, karena Ia mengetahui waktu yang tepat untuk setiap hal, namun adalah tradisi bahwa para dewa mesti melakukan permohonan mereka. "
+            }
+          },
+          {
+            "path": "054 Sarvarthasiddha is presented with Three Palaces.jpg",
+            "name": {
+              "en": "54 Sarvārthasiddha is presented with three palaces ",
+              "id": "54 Sarvārthasiddha dianugerahi tiga istana"
+            },
+            "caption": {
+              "en": "Then King Śuddhodana, heeding the signs, thought to prevent the Prince from going forth by building him three palaces for the three seasons and surrounding him with luxuries and distracting him with sense-pleasures. In the relief we see the three palaces, and the Prince sitting in two of them. It is not immediately clear why the third is empty. ",
+              "id": "Kemudian Raja Śuddhodana, yang memperhatikan pertanda, berpikir untuk mencegah Pangeran meninggalkan keduniawian dengan membangunkan tiga istana untuk tiga musim dan melimpahi-Nya dengan kemewahan dan mengalihkan-Nya dengan kesenangan indrawi. Di relief kita lihat tiga istana, dan Pangeran duduk dalam dua istana. Tidak jelas mengapa istana yang ketiga kosong. "
+            }
+          },
+          {
+            "path": "055 The City is prepared for Sarvarthasiddhas trip outside the Palace.jpg",
+            "name": {
+              "en": "55 The city is prepared for Sarvārthasiddha’s trip outside the palace ",
+              "id": "55 Kota disiapkan untuk perjalanan Sarvārthasiddha ke luar istana"
+            },
+            "caption": {
+              "en": "Then the Prince, who was growing more and more melancholy in the palace, told his charioteer that he wanted to visit the outside world. The King allowed it, thinking he would appreciate his palace life all the more, and he had the city made ready with the four fold army, and the streets cleared of unpleasant sights and sounds. On the right of the panel the Prince is seen sitting with Gopā, and surrounded by ladies in waiting. On the left the city is being prepared with elephants, soldiers and others holding what looks like a lotus flower. ",
+              "id": "Kemudian Pangeran, yang makin lama makin murung di istana, memberitahu kusir-Nya bahwa Ia ingin mengunjungi dunia luar. Raja mengizinkan, berpikir bahwa Ia akan makin menghargai kehidupan istana-Nya, dan ia menyiapkan kota dengan empat jenis pasukan, dan jalanan dibersihkan dari pemandangan dan suara yang tidak menyenangkan. Di kanan panel Pangeran terlihat duduk dengan Gopā, dan dikelilingi para dayang-dayang. Di kiri, kota sedang dibenahi dengan gajah, prajurit, dan orang-orang memegang benda yang kelihatan seperti bunga teratai. "
+            }
+          },
+          {
+            "path": "056 Sarvarthasiddha sees an Old Man.jpg",
+            "name": {
+              "en": "56 Sarvārthasiddha sees an old man ",
+              "id": "56 Sarvārthasiddha melihat orang tua"
+            },
+            "caption": {
+              "en": "As the Prince is being taken through the eastern gate of the city the gods create an image of an old man, and the Prince asks his charioteer: are all men subject to this, and he replies, they are, and the Prince, realising the truth of old age, asks to be returned back to the palace. The old man is on the far left of the panel, holding his staff, and being helped along by a child. A pair of horses pull the chariot the Prince sits on, and he appears to be turning away from the old man, perhaps with the idea of returning now to the palace. ",
+              "id": "Saat Pangeran dibawa melewati gerbang timur kota, para dewa menciptakan wujud seorang tua, dan Pangeran bertanya kepada kusir-Nya: apakah semua orang akan mengalami ini, dan kusir menjawab, begitu adanya, lalu Pangeran, menyadari kebenaran usia tua, minta dibawa kembali ke istana. Orang tua itu ada di kiri ujung panel, memegang tongkatnya, dan dibantu jalan oleh seorang anak kecil. Sepasang kuda menarik kereta Pangeran, dan Ia tampak berpaling dari orang tua itu, mungkin dengan gagasan kembali saat itu ke istana. "
+            }
+          },
+          {
+            "path": "057 Sarvarthasiddha encounters a Sick Man.jpg",
+            "name": {
+              "en": "57 Sarvārthasiddha encounters a sick man ",
+              "id": "57 Sarvārthasiddha bertemu orang sakit"
+            },
+            "caption": {
+              "en": "For a second time the Prince asks to go into the city and the chariot is prepared, and goes through the southern gate. This time he sees a sick man, and realises the universal truth of being subject to ill-health. The sick man is again on the far left of the panel as we look, and here the Prince appears to be in conversation with his charioteer, who answers his questions about sickness. ",
+              "id": "Untuk kedua kalinya Pangeran minta izin pergi ke kota dan kereta pun disiapkan, dan pergi melewati gerbang selatan. Kali ini Ia melihat orang sakit, dan menyadari kebenaran semesta bisa jatuh sakit. Seperti kita lihat, orang sakit juga di ujung kiri panel, dan di sini Pangeran terlihat dalam percakapan dengan kusir-Nya, yang menjawab pertanyaan-Nya mengenai sakit. "
+            }
+          },
+          {
+            "path": "058 Sarvarthasiddha sees Someone who has Died.jpg",
+            "name": {
+              "en": "58 Sarvārthasiddha sees someone who has died ",
+              "id": "58 Sarvārthasiddha melihat orang mati"
+            },
+            "caption": {
+              "en": "On his third trip outside the palace, the Prince goes through the western gate and sees someone lying dead on a bier, and has a similar conversation about death, and realises the truth of the mortality of all beings. The dead man lies on a bier on the far left, with his family gathered round him, while the Prince contemplates these matters and converses with his charioteer. ",
+              "id": "Dalam kunjungan ketiga-Nya ke luar istana, Pangeran pergi melewati gerbang barat dan melihat seseorang terbaring mati di tumpukan kayu pembakaran, dan melakukan percakapan serupa mengenai kematian, lalu menyadari kebenaran bahwa semua makhluk bisa mati. Orang mati terbaring di tumpukan kayu ada di ujung kiri, dengan keluarga-Nya berkumpul di sekeliling-Nya, sementara Pangeran merenungi hal-hal ini dan bercakap dengan kusir-Nya. "
+            }
+          },
+          {
+            "path": "059 Sarvarthasiddha meets a Monk.jpg",
+            "name": {
+              "en": "59 Sarvārthasiddha meets an ascetic ",
+              "id": "59 Sarvārthasiddha bertemu petapa"
+            },
+            "caption": {
+              "en": "On his fourth trip the Prince goes through the northern gate of the city, and the gods create a vision of an ascetic standing serenely on the path, with his senses subdued. The ascetic (śramaṇa) is figured on the far left, while in the middle the Bodhisattva converses with the charioteer, who this time explains to him the monastic life, which is one of restraint and truth-seeking. ",
+              "id": "Dalam perjalanan keempat-Nya, Pangeran pergi melalui gerbang utara kota, dan para dewa menciptakan wujud seorang petapa sedang berdiri dengan tenteram di jalan, dengan indra yang terkendali. Petapa (śramaṇa) ditampilkan di ujung kiri, sementara di tengah, Bodhisattwa berbicara dengan kusir, yang kali ini menjelaskan kepada-Nya mengenai kehidupan suci, yang merupakan pengendalian diri dan pencarian kebenaran. "
+            }
+          },
+          {
+            "path": "060 Gopa tells her Nightmare to Sarvarthasiddha.jpg",
+            "name": {
+              "en": "60 Gopā tells her nightmare to Sarvārthasiddha ",
+              "id": "60 Gopā menceritakan mimpi buruknya kepada Sarvārthasiddha"
+            },
+            "caption": {
+              "en": "One night Gopā sees what she feels is a terrifying nightmare, but it is interpreted very differently by the Prince, who explains it is owing to her great virtue that she sees such a dream, and interprets the signs as auspicious. In this rather worn panel the Prince sits in the middle, with Gopā at his feet on his right, around sit courtiers who listen to the interpretation proffered. ",
+              "id": "Suatu malam Gopā mengalami mimpi buruk yang menakutkan, namun ditafsirkan sangat berbeda oleh Pangeran, yang menjelaskan bahwa justru karena kebajikan sang putri maka ia mendapat mimpi seperti itu, dan menafsirkan pertandanya sebagai berkah. Di panel relief yang agak rusak ini Pangeran duduk di tengah, dengan Gopā bersimpuh di kaki Pangeran, di kanan, di sekeliling duduk para penggawa yang mendengarkan tafsir mimpi yang dituturkan. "
+            }
+          },
+          {
+            "path": "061 King Suddhodana gives permission for Sarvarthasiddha to leave the Palace.jpg",
+            "name": {
+              "en": "61 King Śuddhodana gives permission for Sarvārthasiddha to leave the palace ",
+              "id": "61 Raja Śuddhodana memberi izin kepada Sarvārthasiddha untuk meninggalkan istana"
+            },
+            "caption": {
+              "en": "The King wishes to prevent the Bodhisattva from leaving on his quest, and offers him whatever he desires. The Prince asks for four boons: that he may not grow old, sick or die, and that his wealth will never diminish. The King, of course, cannot give these things, and therefore consents to his going-forth. The King and the Prince are sitting in the centre discussing these issues, and courtiers sit behind the Prince waiting to hear the result of the conversation. ",
+              "id": "Raja berniat mencegah Bodhisattwa meninggalkan istana untuk melakukan pencarian-Nya, dan menawari-Nya apa pun yang Ia inginkan. Pangeran meminta empat anugerah: agar Ia tidak akan menjadi tua, sakit, atau mati, dan agar kekayaan-Nya tidak akan pernah berkurang. Raja, tentu saja, tidak mampu mengabulkan hal-hal ini, sehingga merestui Pangeran meninggalkan keduniawian. Raja dan Pangeran duduk di tengah membahas persoalan ini, dan para penggawa duduk di belakang Pangeran, menunggu mendengar hasil pembicaraan. "
+            }
+          },
+          {
+            "path": "062 Gautami brings beautiful women for the Prince.jpg",
+            "name": {
+              "en": "62 Gautamī brings beautiful women for the Prince ",
+              "id": "62 Gautamī membawa perempuan cantik untuk Pangeran"
+            },
+            "caption": {
+              "en": "The Prince’s stepmother Mahā Prajāpatī Gautamī now instructs the maidservants to keep good watch over the Prince, so that he may not leave the palace that night. The Prince is seen in his palace surrounded by lovely women. A small detail, that occurs in many of the panels, is the Prince’s knee strap, which helps hold his leg up. ",
+              "id": "Ibu tiri Pangeran, Mahā Prajāpatī Gautamī, memerintahkan para dayang untuk mengawasi Pangeran, supaya Ia tidak meninggalkan istana malam itu. Pangeran terlihat di istana-Nya dikelilingi para perempuan menarik. Satu detail kecil, yang muncul di banyak panel, adalah sabuk lutut Pangeran, yang membantu menopang kaki-Nya. "
+            }
+          },
+          {
+            "path": "063 Sarvarthasiddha is appalled by the attitudes of the Sleeping Women.jpg",
+            "name": {
+              "en": "63 Sarvārthasiddha is appalled by the attitudes of the sleeping women ",
+              "id": "63 Sarvārthasiddha tersentak oleh sikap para perempuan yang tertidur"
+            },
+            "caption": {
+              "en": "Despite Gautamī’s exhortation the women eventually fall asleep, and assume unsightly attitudes, dishevelled, dribbling, gnashing their teeth, snoring and exposing themselves. The Prince sees the women and is appalled by the sight, and once again determines to go forth to find the end of suffering. The artists of Borobudur have produced here a memorable scene, with the women lying round in different postures and states of disarray. ",
+              "id": "Meskipun telah dipesani Gautamī, para perempuan itu akhirnya jatuh tertidur, dengan sikap yang tak elok, acak-acakan, dengan air liur menetes, mengertakkan gigi, mendengkur, dan bagian tubuh mereka tersibak. Pangeran melihat para perempuan ini dan tersentak dengan pemandangan itu, sehingga sekali lagi bertekad meninggalkan keduniawian untuk menemukan akhir penderitaan. Para seniman Borobudur telah menghasilkan pemandangan yang mengesankan di sini, dengan para perempuan berbaring dalam berbagai postur dan keadaan berserakan. "
+            }
+          },
+          {
+            "path": "064 Sarvarthasiddha leaves the Palace.jpg",
+            "name": {
+              "en": "64 Sarvārthasiddha leaves the palace ",
+              "id": "64 Sarvārthasiddha meninggalkan istana"
+            },
+            "caption": {
+              "en": "The Prince determines he must leave the palace this night, and orders his groom Chandaka to bring his favourite horse Kaṇṭhaka so he may depart. Pictured on the left of the panel are the Four Great Kings, who came to ensure the Prince’s safe departure, other gods put the people to sleep so they wouldn’t try and prevent the departure, and the Prince now is ready. ",
+              "id": "Pangeran bertekad Ia harus meninggalkan istana malam itu, dan menyuruh pelayan-Nya, Chandaka, untuk membawakan kuda kesayangan-Nya, Kaṇṭhaka, supaya Ia bisa berangkat. Digambarkan di kiri panel adalah Empat Dewa Maharaja, yang datang untuk memastikan keamanan keberangkatan Pangeran, dewa-dewa lainnya membuat orang-orang tertidur sehingga mereka tidak mencoba mencegah kepergian itu, dan Pangeran kini sudah siap. "
+            }
+          },
+          {
+            "path": "065 Sarvarthasiddha begins his long Journey into Exile on the horse Kanthaka.jpg",
+            "name": {
+              "en": "65 Sarvārthasiddha begins his long Journey into exile on the horse Kaṇṭhaka ",
+              "id": "65 Sarvārthasiddha memulai perjalanan panjang-Nya ke penyunyian menunggang kuda Kaṇṭhaka"
+            },
+            "caption": {
+              "en": "The Prince, accompanied by the gods, begins his journey out of the palace, the city and his former life and towards his quest for freedom. This is one of the liveliest of the scenes at Borobudur, with the Prince on Kaṇṭhaka on the left of the panel, and gods holding cushions under the horse’s feet to prevent any sound. Other gods fly through the sky behind him. ",
+              "id": "Pangeran, ditemani dewa-dewa, memulai perjalanan-Nya keluar dari istana, kota, kehidupan-Nya di istana, menuju pencarian-Nya akan keterbebasan. Inilah salah satu adegan paling hidup di Borobudur, dengan Pangeran duduk di atas Kaṇṭhaka di kiri panel ini, dan dewa-dewa memegangi bantal di bawah kaki kuda untuk mencegah timbulnya suara sedikit pun. Dewa-dewa lain terbang di angkasa di belakang-Nya. "
+            }
+          },
+          {
+            "path": "066 The Gods are dismissed by Sarvarthsiddha.jpg",
+            "name": {
+              "en": "66 The gods are dismissed by Sarvārthsiddha ",
+              "id": "66 Para dewa diminta pergi oleh Sarvārthasiddha"
+            },
+            "caption": {
+              "en": "After crossing many lands, the Bodhisattva descends from Kaṇṭhaka and dismisses the gods who have protected his ride into exile, for now he must strive alone. There is a beautifully carved relief of Kaṇṭhaka, with Chandaka holding the reins, and turning back to look at the Bodhisattva. There are many flora and fauna reliefs at Borobudur that are very realistically drawn. ",
+              "id": "Setelah melintasi banyak negeri, Bodhisattwa turun dari Kaṇṭhaka dan membubarkan para dewa yang telah melindungi perjalanan-Nya meninggalkan keduniawian, karena kini Ia harus berjuang sendirian. Inilah relief Kaṇṭhaka yang dipahat indah, dengan Chandaka memegang tali kekangnya, dan berpaling untuk melihat ke Bodhisattwa. Ada banyak relief tumbuhan dan binatang di Borobudur yang digambar dengan amat realistik. "
+            }
+          },
+          {
+            "path": "067 Sarvarthasiddha cuts off his Hair.jpg",
+            "name": {
+              "en": "67 Sarvārthasiddha cuts off his hair ",
+              "id": "67 Sarvārthasiddha memotong rambut-Nya"
+            },
+            "caption": {
+              "en": "Now the Bodhisattva removes his crown, which is being held by one god, and cuts off his hair with his sword, a platter for which is being held by another of the gods. The gods took the hair-relics to Trāyatriṁśa Heaven, where they built the Cūḍāpratigrahaṇa Chaitya, and regularly hold festivals to worship it. ",
+              "id": "Kini Bodhisattwa menanggalkan mahkota-Nya, yang dipegang oleh satu dewa, dan memotong rambut-Nya dengan pedang, yang ditaruh di nampan yang dipegang oleh dewa-dewa lainnya. Para dewa membawa relik rambut itu ke Surga Trāyatriṁśa, tempat mereka membangun Cetiya Cūḍāpratigrahaṇa, dan secara berkala mengadakan perayaan untuk memuja relik itu. "
+            }
+          },
+          {
+            "path": "068 Sarvarthasiddha changes his Clothes.jpg",
+            "name": {
+              "en": "68 Sarvārthasiddha changes his clothes ",
+              "id": "68 Sarvārthasiddha mengganti pakaian-Nya"
+            },
+            "caption": {
+              "en": "The Bodhisattva also wishes to change his fine clothes for something more suitable, so a god disguises himself as a poor woodsman, and the Bodhisattva offers to exchange his clothes for the woodsman’s dyed clothes (kāṣāya). The prince’s old clothes were also taken as relics to heaven and a chaitya built for them, which is called the Kāṣāyagrahaṇa. Parts of this panel are badly worn, in the centre proffering the clothes is a god. He is not dressed as a woodsman, as the text says, but as a god. The figure of the Bodhisattva, almost missing, stands in front of him. There is a lovely relief of two sleeping dogs on the right of the panel, with peacocks above them. ",
+              "id": "Bodhisattwa juga ingin mengganti pakaian-Nya yang bagus dengan sesuatu yang lebih sesuai, sehingga sesosok dewa menyamar sebagai perambah hutan miskin, dan Bodhisattwa menawarkan untuk menukar pakaian-Nya dengan pakaian perambah hutan itu yang diberi bahan pewarna (kāṣāya). Pakaian lama Pangeran juga dibawa sebagai relik ke surga dan sebuah cetiya dibangun untuk menyemayamkannya, yang disebut Kāṣāyagrahaṇa. Bagianbagian panel ini rusak parah, di tengah sesosok dewa mempersembahkan jubah. Ia tidak berpakaian sebagai tukang kayu, seperti yang disebutkan di naskah, namun sebagai dewa. Sosok Bodhisattwa, yang nyaris tak kelihatan, berdiri di depannya. Ada relief cantik dua anjing tidur di kanan panel, dengan merak di atas mereka. "
+            }
+          },
+          {
+            "path": "069 The Gods revere the Bodhisattva.jpg",
+            "name": {
+              "en": "69 The gods revere the Bodhisattva ",
+              "id": "69 Para dewa memberi hormat kepada Bodhisattwa"
+            },
+            "caption": {
+              "en": "At this point in the story the gods gather round once more and worship the Prince, who has now become an ascetic, and declare that he will indeed achieve Awakening and lead people out of the woes of saṁsāra. The Bodhisattva now leaves the gods on the left of the panel, and prepares to enter the wilderness, signified by the trees and deer on the right. ",
+              "id": "Pada momen ini dalam cerita, para dewa berkumpul sekali lagi dan memuja Pangeran, yang kini telah menjadi petapa, dan menyatakan bahwa Ia sungguh akan mencapai Kecerahan dan memandu orang-orang keluar dari duka saṁsāra. Bodhisattwa kini meninggalkan para dewa di kiri panel, dan bersiap memasuki rimba, yang ditandai dengan pepohonan dan rusa di kanan. "
+            }
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": {
+          "en": "Meetings and Striving",
+          "id": "Perjumpaan dan Perjuangan"
+        },
+        "slides": [
+          {
+            "path": "070 The Bodhisattva roams and comes to Padmas Hermitage.jpg",
+            "name": {
+              "en": "70 The Bodhisattva roams and comes to Padmā’s hermitage ",
+              "id": "70 Bodhisattwa berkelana dan tiba di pertapaan Padmā"
+            },
+            "caption": {
+              "en": "The Bodhisattva now visits various ashrams looking for spiritual guidance, the first two are run by female ascetics, the first a Brāhmaṇī named Śākī, and the second by Padmā, another Brāhmaṇī. In the relief we see female ascetics on the left holding rosaries and meditating, while the Bodhisattva talks with their leader Padmā. The deer signify this is in the wilderness. ",
+              "id": "Bodhisattwa kini mengunjungi berbagai pertapaan untuk mencari bimbingan spiritual, dua pertapaan pertama dikelola petapa perempuan, yang pertama adalah brahmana perempuan bernama Śākī, dan yang kedua adalah Padmā, brahmana perempuan lainnya. Dalam panel relief kita lihat petapa perempuan di kiri memegang tasbih dan bersemadi, sembari Bodhisattwa berbincang dengan Padmā, pemimpin mereka. Rusa menandakan ini di rimba. "
+            }
+          },
+          {
+            "path": "071 The Bodhisattva meets with Arada Kalama.jpg",
+            "name": {
+              "en": "71 The Bodhisattva meets with Ārāḍa Kālāma ",
+              "id": "71 Bodhisattwa bertemu dengan Ārāḍa Kālāma"
+            },
+            "caption": {
+              "en": "The Bodhisattva met with two other ṛṣis, Raivata and Rājaka, before going on to the large ashram of Ārāḍa in Vaiśālī, where three disciples were practising under his tutelage. In the panel the Bodhisattva has just arrived and Ārāḍa is offering him water, while in the background his disciples sit under the trees. Notice the monkeys sitting under the tree on the right. ",
+              "id": "Bodhisattwa bertemu dengan dua resi lainnya, Raivata dan Rājaka, sebelum pergi ke pertapaan besar Ārāḍa di Vaiśālī, di mana tiga siswa sedang berlatih di bawah bimbingannya. Dalam panel ini Bodhisattwa baru tiba dan Ārāḍa menawarkan air kepada-Nya, sementara di latar, murid-muridnya duduk di bawah pohon. Perhatikan kera-kera duduk di bawah pohon di kanan. "
+            }
+          },
+          {
+            "path": "072 Arada Kalama offers the Bodhisattva Joint Leadership.jpg",
+            "name": {
+              "en": "72 Ārāḍa Kālāma offers the Bodhisattva joint leadership ",
+              "id": "72 Ārāḍa Kālāma menawari Bodhisattwa untuk memimpin bersama"
+            },
+            "caption": {
+              "en": "Then the Bodhisattva through application of mind managed in a short time to master all that Ārāḍa could teach him, and reported the situation to the teacher, who offered to make him joint leader of the group. The Bodhisattva, however, realising that this attainment does not lead to complete deliverance, decides to leave the ashram and seek his aims elsewhere. Again we see ascetics sitting with rosaries, and on the right Ārāḍa listens to the Bodhisattva. ",
+              "id": "Kemudian, Bodhisattwa melalui pengerahan batin berhasil dalam waktu singkat menguasai semua yang Ārāḍa sanggup ajarkan kepada-Nya, dan melaporkan situasi itu kepada sang guru, yang menawari-Nya menjadi pemimpin bersama kelompok tersebut. Akan tetapi, Bodhisattwa menyadari bahwa pencapaian ini tidak membawa pada pembebasan sempurna, memutuskan untuk meninggalkan pertapaan dan mencari tujuan-Nya di tempat lain. Sekali lagi kita melihat para petapa duduk dengan tasbih, lalu di kanan Ārāḍa mendengarkan Bodhisattwa. "
+            }
+          },
+          {
+            "path": "073 King Bimbisara offers alms to the Bodhisattva.jpg",
+            "name": {
+              "en": "73 King Bimbisāra offers alms to the Bodhisattva ",
+              "id": "73 Raja Bimbisāra mempersembahkan derma kepada Bodhisattwa"
+            },
+            "caption": {
+              "en": "After leaving Ārāḍa the Bodhisattva went to Rājagṛha, the capital of Magadha, which was on the other side of the Gangā river. As he was entering the city on alms-round the people were amazed by his bearing. King Bimbisāra also saw him, and offered him alms. In the panel the King stands ready to offer alms, while at the feet of the Bodhisattva appears to be a servant. Above on the far right the gods look on from the clouds. ",
+              "id": "Setelah meninggalkan Ārāḍa, Bodhisattwa pergi ke Rājagṛha, ibukota Magadha, yang berada di sisi lain Sungai Gangā. Kala Ia memasuki kota untuk menyambut derma makanan, orang-orang terpukau oleh pembawaan-Nya. Raja Bimbisāra juga melihat-Nya, dan mempersembahkan dermanya. Di panel, Raja berdiri siap menawarkan derma, sementara di kaki Bodhisattwa tampaknya seorang pelayan. Di ujung atas kanan, para dewa menyaksikan dari awan. "
+            }
+          },
+          {
+            "path": "074 King Bimbisara venerates the Bodhisattva.jpg",
+            "name": {
+              "en": "74 King Bimbisāra venerates the Bodhisattva ",
+              "id": "74 Raja Bimbisāra memberi hormat kepada Bodhisattwa"
+            },
+            "caption": {
+              "en": "King Bimbisāra impressed by the demeanour of the Bodhisattva asks his men to watch where he goes when he leaves the city, and they follow him to Mount Pāṇḍava. The King then goes out to meet him, and offers him half the kingdom, and when he refuses, asks him to come back and teach when he has attained Awakening. The animals on the left of the panel signify that this is the wilderness. To the Bodhisattva’s left is King Bimbisāra, and his court, who all sit in a reverential attitude. ",
+              "id": "Raja Bimbisāra terkesan oleh pembawaan Bodhisattwa dan menyuruh orangorangnya untuk mengawasi ke mana pun Ia pergi ketika Ia meninggalkan kota, dan mereka mengikuti-Nya ke Gunung Pāṇḍava. Raja kemudian pergi menemui-Nya, dan menawari-Nya separuh kerajaan, dan ketika Ia menolak, Raja memohon-Nya untuk kembali dan mengajar saat Ia sudah mencapai Kecerahan. Hewan-hewan di kiri panel menandakan bahwa ini rimba. Di kiri Bodhisattwa adalah Raja Bimbisāra dan penggawanya, yang semuanya duduk dalam sikap hormat. "
+            }
+          },
+          {
+            "path": "075 The Bodhisattva meets with Rudraka Ramaputra.jpg",
+            "name": {
+              "en": "75 The Bodhisattva meets with Rudraka Rāmaputra ",
+              "id": "75 Bodhisattwa bertemu dengan Rudraka Rāmaputra"
+            },
+            "caption": {
+              "en": "The Bodhisattva now approaches another teacher Rudraka, who was teaching the highest levels of concentration meditation to his seven hundred disciples in Rājagaha, and asks for instruction. The Bodhisattva sits discussing meditation with Rudraka, who has his disciples behind him. All around are the wilderness animals. ",
+              "id": "Bodhisattwa kini mendekati guru lainnya, Rudraka, yang mengajarkan tataran tertinggi meditasi pengheningan kepada tujuh ratus muridnya di Rājagaha, dan mohon bimbingan. Bodhisattwa duduk membahas meditasi dengan Rudraka, yang memiliki banyak murid di belakangnya. Di sekitar ada hewan-hewan rimba. "
+            }
+          },
+          {
+            "path": "076 The Bodhisattva begins Meditation in Caves with the Group of Five.jpg",
+            "name": {
+              "en": "76 The Bodhisattva begins meditation in caves with the Group of Five ",
+              "id": "76 Bodhisattwa mulai meditasi dalam gua dengan Kelompok Lima Petapa"
+            },
+            "caption": {
+              "en": "The Bodhisattva leaves the ashram, and five of Rudraka’s disciples decide to follow him, and become known as the Auspicious Group of Five (Bhadda Pañcavaggiya). After some time they go to the edge of Senāpati village near Gayāśīrṣa, and begin their life of austerities. The caves are stylistically indicated above the Bodhisattva and the Group of Five, all of whom are practising meditation. ",
+              "id": "Bodhisattwa meninggalkan pertapaan, dan lima siswa Rudraka memutuskan untuk mengikuti-Nya, dan menjadi dikenal sebagai Kelompok Lima Petapa Bajik (Bhadda Pañcavaggiya). Setelah beberapa lama, mereka pergi ke pinggir Desa Senāpati di dekat Gayāśīrṣa, dan memulai kehidupan tapa keras mereka. Gua ini secara khas digambarkan di atas menunjukkan Bodhisattwa dan Kelompok Lima Petapa, semuanya menjalani meditasi. "
+            }
+          },
+          {
+            "path": "077 The Bodhisattva during his Life of Austerity.jpg",
+            "name": {
+              "en": "77 The Bodhisattva during his life of austerity ",
+              "id": "77 Bodhisattwa selama kehidupan tapa keras-Nya"
+            },
+            "caption": {
+              "en": "The Bodhisattva now begins his life of deep austerities, taking very little food, and later engaging in the non-breathing meditation. So severe were the austerities that some gods believed he may have died. The Bodhisattva is pictured with the Auspicious Group of Five ascetics, and appears to be discussing something with one of them. On the right we see the river Nairañjanā, with plentiful fish in it. ",
+              "id": "Bodhisattwa kini memulai kehidupan tapa keras mendalam-Nya, hanya makan sedikit sekali makanan, dan kemudian melakukan meditasi tak bernapas. Begitu berat tapa keras-Nya sehingga beberapa dewa merasa jangan-jangan Ia sudah meninggal. Bodhisattwa digambarkan dengan Kelompok Lima Petapa Bajik, dan tampak membahas sesuatu dengan salah satu dari mereka. Di kanan kita melihat Sungai Nairañjanā, dengan banyak ikan di dalamnya. "
+            }
+          },
+          {
+            "path": "078 The Bodhisattvas Mother tries to persuade him to give up his Austerities.jpg",
+            "name": {
+              "en": "78 The Bodhisattva’s mother tries to persuade him to give up his austerities ",
+              "id": "78 Ibu Bodhisattwa berusaha membujuk-Nya untuk menghentikan tapa keras-Nya"
+            },
+            "caption": {
+              "en": "The Bodhisattva’s mother, who had been reborn in the Trāyastriṁśa Heaven as a god, is now asked by the gods to go and speak to the Bodhisattva, so he descends, and questions whether he has failed to fulfil prophecy, but the Bodhisattva asserts he will still fulfil all that was predicted of him. We see the previous Māyādevī accompanied by divine nymphs (apsara), who have also come to see the Bodhisattva. ",
+              "id": "Ibu Bodhisattwa, yang telah terlahir ulang di Surga Trāyastriṁśa sebagai dewa, kini diminta para dewa untuk pergi dan berbicara kepada Bodhisattwa, maka ia turun, dan bertanya apakah Ia telah gagal memenuhi ramalan, namun Bodhisattwa menegaskan bahwa Ia masih memenuhi semua yang diramalkan tentang-Nya. Kita melihat Māyādevī yang terdahulu ditemani bidadari surgawi (apsara), yang juga datang untuk melihat Bodhisattwa. "
+            }
+          },
+          {
+            "path": "079 Mara tries to persuade the Bodhisattva to stop Striving.jpg",
+            "name": {
+              "en": "79 Māra tries to persuade the Bodhisattva to stop striving ",
+              "id": "79 Māra berusaha membujuk Bodhisattwa untuk berhenti berjuang"
+            },
+            "caption": {
+              "en": "Māra now approaches the Bodhisattva and tries to persuade him to give up striving and do good deeds instead, but the Bodhisattva rebukes him and drives him away. The Bodhisattva is sat in meditation posture, with his hand held up in rejection of Māra’s arguments. He then names Māra’s ten armies and vows to break them. ",
+              "id": "Māra kini mendekati Bodhisattwa dan berusaha membujuk-Nya untuk menyerah berjuang dan cukup melakukan perbuatan baik, tetapi Bodhisattwa menegur dan mengusirnya. Bodhisattwa duduk dalam postur meditasi, dengan tangan-Nya terangkat menolak hasutan Māra. Ia lalu menyebutkan nama sepuluh pasukan Māra dan bertekad mematahkan mereka. "
+            }
+          },
+          {
+            "path": "080 The Gods offer to give Nourishment to the Bodhisattva.jpg",
+            "name": {
+              "en": "80 The gods offer to give nourishment to the Bodhisattva ",
+              "id": "80 Para dewa menawarkan menyalurkan gizi kepada Bodhisattwa"
+            },
+            "caption": {
+              "en": "As his efforts have not brought him closer to Awakening, the Bodhisattva now decides to change his approach and to take enough food to sustain himself, and have a steady mind. The gods then offer to feed him divine food through the pores of his skin, but the Bodhisattva thinks that would be deceitful and instead looks to take food in the normal way. ",
+              "id": "Karena upaya-Nya tak kunjung membawa-Nya mendekati Kecerahan, Bodhisattwa kini memutuskan untuk mengubah cara-Nya dan makan cukup makanan untuk menjaga kelangsungan-Nya, serta memiliki batin yang seimbang. Para dewa kemudian menawari untuk memberi-Nya makanan surgawi melalui pori-pori kulit-Nya, namun Bodhisattwa berpikir bahwa ini jadi curang dan alih-alih makan makanan dengan cara yang wajar. "
+            }
+          },
+          {
+            "path": "081 The Daughters of the Village Head offer Food to the Bodhisattva.jpg",
+            "name": {
+              "en": "81 The daughters of the village head offer food to the Bodhisattva ",
+              "id": "81 Putri kepala desa mendermakan makanan kepada Bodhisattwa"
+            },
+            "caption": {
+              "en": "The Group of Five monks decide to leave the Bodhisattva thinking he had given up his efforts, then a group of ten maidens led by Sujātā come and offer him broth, which he takes. To the left is a palace, presumably the home of the village headman, and in the middle under a well drawn coconut tree sit four of the girls, one offering a lotus. Nearby stands another who is holding the Bodhisattva’s bowl, having filled it with rice gruel. ",
+              "id": "Kelompok Lima Petapa memutuskan meninggalkan Bodhisattwa karena berpikir Ia telah meninggalkan upaya-Nya, kemudian kelompok sepuluh gadis yang dipimpin Sujātā datang dan memberi-Nya kaldu, yang Ia terima. Di kiri terdapat istana, diperkirakan rumah kepala desa, dan di tengah di bawah pohon kelapa yang dipahat bagus, duduk empat gadis, salah satunya mempersembahkan teratai. Di dekatnya berdiri yang lain memegang mangkuk Bodhisattwa, setelah mengisinya dengan bubur nasi. "
+            }
+          },
+          {
+            "path": "082 The Bodhisattva washes Radhas Shroud.jpg",
+            "name": {
+              "en": "82 The Bodhisattva washes Rādhā’s shroud ",
+              "id": "82 Bodhisattwa mencuci kain rombeng Rādhā"
+            },
+            "caption": {
+              "en": "The Bodhisattva now needed a new robe, as his previous one was worn out, and he took the shroud from Rādhā, who has recently died, and walking away wished to wash it, so the gods made a pond for him, and Śakra set down a beating stone. The Bodhisattva is pictured with the rag in his hand, and on his right is a lovely lotus pond, made by the gods, who stand behind him. Standing directly behind the Bodhisttva is Śakra who is worshipping the Bodhisattva, and offering to wash the robe for him. ",
+              "id": "Bodhisattwa kini butuh jubah baru, karena jubah lamanya rusak, dan Ia mengambil kain kafan dari Rādhā, yang baru saja wafat, dan berjalan pergi hendak mencucinya, maka dewa-dewa membuat telaga untuk-Nya, dan Śakra menaruh batu cuci. Bodhisattwa digambarkan dengan kain rombeng di tangan-Nya, dan di kanannya ada telaga teratai yang indah, dibuat oleh para dewa, yang berdiri di belakang-Nya. Berdiri tepat di belakang Bodhisattwa adalah Śakra yang menghormat Bodhisattwa, dan menawarkan mencucikan jubah untuk-Nya. "
+            }
+          },
+          {
+            "path": "083 The Gods offer Clean Clothes to the Bodhisattva.jpg",
+            "name": {
+              "en": "83 The gods offer clean clothes to the Bodhisattva ",
+              "id": "83 Para dewa mempersembahkan jubah bersih kepada Bodhisattwa"
+            },
+            "caption": {
+              "en": "Then the Śuddhāvāsikā gods descend and offer the Bodhisattva clean dyed robes of a suitable colour. The Bodhisattva accepts their gift and changes his robes. There are elephants, monkeys and peacocks on the left of the panel, deep in the forests, while in the centre stand the gods with their offerings in their hands. ",
+              "id": "Kemudian dewa-dewa Śuddhāvāsikā turun dan mempersembahkan kepada Bodhisattwa jubah bersih yang telah diberi warna yang sesuai. Bodhisattwa menerima pemberian mereka dan mengganti jubah-Nya. Ada gajah, kera, dan merak di kiri panel, di rimba dalam, sementara di tengah berdiri dewa-dewa dengan persembahan di tangan mereka. "
+            }
+          },
+          {
+            "path": "084 Sujata presents food to the Bodhisattva in her Home.jpg",
+            "name": {
+              "en": "84 Sujātā presents food to the Bodhisattva in her home ",
+              "id": "84 Sujātā mendermakan makanan kepada Bodhisattwa di rumahnya"
+            },
+            "caption": {
+              "en": "Sujātā prepares milk-rice (pāyāsa) and sends her servant Uttarā to bring a suitable subject to offer it to. Everywhere Uttarā goes, by the power of the gods, she sees only the Bodhisattva, and Sujātā tells her the milk-rice is prepared for him. There are two scenes: on the right of the panel the women have prepared the milk-rice, and are passing it along; on the left Sujātā approaches the Bodhisattva with the filled bowl. ",
+              "id": "Sujātā menyiapkan nasi susu (pāyāsa) dan mengutus pelayannya, Uttarā, untuk mencarikan orang yang sesuai untuk diberi nasi susu itu. Ke mana pun Uttarā pergi, dengan kekuatan para dewa, ia hanya melihat Bodhisattwa, maka Sujātā memberitahunya bahwa nasi susu itu disiapkan untuk-Nya. Ada dua adegan: di kanan panel banyak perempuan telah menyiapkan nasi susu, dan mengoperkannya; di kiri Sujātā mendekati Bodhisattwa dengan mangkuk terisi. "
+            }
+          },
+          {
+            "path": "085 The Bodhisattva takes the bowl and goes to the River to Bathe.jpg",
+            "name": {
+              "en": "85 The Bodhisattva takes the bowl and goes to the river to bathe ",
+              "id": "85 Bodhisattwa membawa mangkuk dan pergi ke sungai untuk mandi"
+            },
+            "caption": {
+              "en": "Sujātā gave the food in a golden bowl to the Bodhisattva, and he asked what he should do with it, to which Sujātā replied that the bowl was his. He then left for the River Nairañjanā to bathe and cool himself off. We see the Bodhisattva with the golden bowl in the centre of the panel, and on his right kneel gods in worshipping attitude. The river is on the Bodhisattva’s left and is pictured teaming with fish. ",
+              "id": "Sujātā memberikan makanan dalam mangkuk emas kepada Bodhisattwa, lalu Ia bertanya apa yang mesti Ia lakukan dengan mangkuk itu, yang Sujātā jawab bahwa mangkuk itu kini milik Bodhisattwa. Ia kemudian pergi ke Sungai Nairañjanā untuk mandi dan menyejukkan diri-Nya. Kita lihat Bodhisattwa dengan mangkuk emas di tengah panel, dan di kanan-Nya, para dewa berlutut dengan sikap hormat. Sungai ada di kiri Bodhisattwa dan digambarkan penuh dengan ikan. "
+            }
+          },
+          {
+            "path": "086 The Gods assist the Bodhisattva as he bathes and then collect the Relics.jpg",
+            "name": {
+              "en": "86 The gods assist the Bodhisattva as he bathes, and then collect the relics ",
+              "id": "86 Para dewa membantu Bodhisattwa ketika Ia mandi, dan kemudian mengumpulkan relik-Nya"
+            },
+            "caption": {
+              "en": "As the Bodhisattva enters the river to bathe, the gods perfume the water and sprinkle divine flower petals into it, so that it is suitable for the Bodhisattva to bathe in. The gods are seen floating on the clouds in this delightful scene, while below others are scooping up the water to take to the various heavens to be enthroned in chaityas. On the right of the panel we see divine serpents (nāgas) rising from the water. ",
+              "id": "Tatkala Bodhisattwa memasuki sungai untuk mandi, para dewa memberi wewangian di air dan memercikkan kelopak bunga surgawi ke dalamnya, sehingga menjadi layak untuk Bodhisattwa mandi. Para dewa terlihat terbang di awan dalam pemandangan yang penuh sukacita ini, sementara di bawah, dewa-dewa lain menggayung air itu untuk dibawa ke berbagai surga untuk disemayamkan di cetiya-cetiya. Di kanan panel kita melihat ular surgawi (nāga) muncul dari air. "
+            }
+          },
+          {
+            "path": "087 A Nagi offers the Bodhisattva a Throne.jpg",
+            "name": {
+              "en": "87 A Nāginī offers the Bodhisattva a throne ",
+              "id": "87 Nāginī mempersembahkan singgasana kepada Bodhisattwa"
+            },
+            "caption": {
+              "en": "After bathing the Bodhisattva was looking for a place to sit and one of the nāginīs (female divine serpents) in the river Nairajñanā, seeing this, offered him a jewelled throne. The Bodhisattva is once again seen with his bowl, and to his right is the nāginī, who has created the broad throne behind her. Other gods wait to see the outcome also. ",
+              "id": "Setelah mandi Bodhisattwa mencari tempat untuk duduk dan salah satu nāginī (ular surgawi betina) di Sungai Nairajñanā, melihat ini, mempersembahkan singgasana berpermata kepada-Nya. Bodhisattwa sekali lagi terlihat dengan mangkuk-Nya, dan di kanannya ada nāginī, yang telah menciptakan singgasana lebar di belakangnya. Dewa-dewa lain ikut menanti untuk melihat hasilnya. "
+            }
+          },
+          {
+            "path": "088 The Bodhisattva eats the remainder of his Food.jpg",
+            "name": {
+              "en": "88 The Bodhisattva eats the remainder of his food ",
+              "id": "88 Bodhisattwa menyantap sisa makanan-Nya"
+            },
+            "caption": {
+              "en": "The Bodhisattva now sits on the throne built for him to eat the remainder of the milk-rice that Sujātā has given him as alms-food. The Bodhisattva is seen sitting on the throne in an idyllic forest setting, with three goddesses watching over him. Again the river is pictured teaming with fish, a sign of abundance. ",
+              "id": "Bodhisattwa kini duduk di singgasana yang dibangun untuk-Nya untuk menyantap sisa nasi susu yang telah diberikan Sujātā kepada-Nya sebagai makanan derma. Bodhisattwa terlihat duduk di singgasana dalam latar hutan yang rindang, dengan tiga dewi menjaganya-Nya. Lagi, sungainya digambarkan penuh dengan ikan, pertanda kelimpahan. "
+            }
+          },
+          {
+            "path": "089 The Bodhisattva disposes of the Bowl.jpg",
+            "name": {
+              "en": "89 The Bodhisattva disposes of the bowl ",
+              "id": "89 Bodhisattwa melempar mangkuk"
+            },
+            "caption": {
+              "en": "When he had finished his meal, the Bodhisattva throws the bowl into the river, and the king of the nāgas takes it; Śakra appears and begs him for it. The bowl is then taken to Trāyatriṁśa Heaven and a chaitya built for it, which is worshipped at a festival every year. There are two scenes depicted: on the right side of the panel the Bodhisattva is floating the bowl in the river, and the nāga king is taking it up; on the left side the nāga king gives the bowl to Śakra, king of the gods, as a relic. ",
+              "id": "Ketika telah selesai santap, Bodhisattwa melempar mangkuk ke dalam sungai, dan raja nāga mengambilnya; Śakra muncul dan memohon mangkuk itu kepada raja nāga. Mangkuk itu kemudian dibawa ke Surga Trāyatriṁśa dan sebuah cetiya dibangun untuk menyemayamkannya, yang dipuja dalam suatu perayaan tiap tahun. Ada dua adegan yang digambarkan: di sisi kanan panel, Bodhisattwa melabuhkan mangkuk di sungai, dan raja nāga mengambilnya; di sisi kiri, raja nāga memberikan mangkuk itu kepada Śakra, raja dewa, sebagai relik. "
+            }
+          },
+          {
+            "path": "090 Svastika gives Grass to the Bodhisattva.jpg",
+            "name": {
+              "en": "90 Svastika gives grass to the Bodhisattva ",
+              "id": "90 Svastika memberi rumput kepada Bodhisattwa"
+            },
+            "caption": {
+              "en": "The grass cutter Svastika gives a sheath of the much-favoured kuśa grass for the Bodhisattva to sit on at the Bodhi tree. Svastika is on his knees on the far left gathering grass with one hand, and offering it with another. To the Bodhisattva’s left the gods look on as the scene plays out. ",
+              "id": "Svastika, si pemotong rumput, memberi seikat rumput kusa yang amat cocok untuk menjadi alas duduk Bodhisattwa di bawah pohon Bodhi. Svastika berlutut di kiri jauh, mengumpulkan rumput dengan satu tangan, dan mempersembahkannya dengan tangan yang lain. Di kiri Bodhisattwa, para dewa mengamati adegan yang terjadi. "
+            }
+          },
+          {
+            "path": "091 The Gods worship the Bodhisattva.jpg",
+            "name": {
+              "en": "91 The gods worship the Bodhisattva ",
+              "id": "91 Para dewa menghormat Bodhisattwa"
+            },
+            "caption": {
+              "en": "The gods now gather round as the Bodhisattva approaches the Bodhi tree, and pay homage to him. There are three groups of gods on this relief. Brahmā kneels in front of the Bodhisattva, his retinue behind him. Behind them is the nāga-king Kālika, with his followers. On the right are other gods who have gathered round. ",
+              "id": "Para dewa kini berkumpul tatkala Bodhisattwa mendekati pohon Bodhi, dan memberi hormat kepada-Nya. Ada tiga kelompok dewa di relief ini. Brahma berlutut di depan Bodhisattwa, dengan pengikut di belakangnya. Di belakang mereka adalah raja naga Kālika, dengan pengikutnya. Di kanan adalah dewa-dewa lain yang telah berkumpul. "
+            }
+          },
+          {
+            "path": "092 The Gods decorate Bodhi Trees hoping the Bodhisattva will sit there.jpg",
+            "name": {
+              "en": "92 The gods decorate Bodhi trees hoping the Bodhisattva will sit there ",
+              "id": "92 Para dewa menghias pohon-pohon Bodhi berharap Bodhisattwa akan duduk di sana"
+            },
+            "caption": {
+              "en": "The gods now prepare 84,000 Bodhi trees, with different degrees of excellence and magnificence, in the hope that the Bodhisattva will sit under his tree. The Bodhisattva uses his powers of concentration so it seems to their makers that he is sitting under the tree they had prepared. In the panel we see just five of the trees, and the gods preparing the spaces around them with fragrant incense and flowers. ",
+              "id": "Para dewa kini menyiapkan 84.000 pohon Bodhi, dengan beragam taraf keunggulan dan kemegahan, dengan harapan bahwa Bodhisattwa akan duduk di bawah pohon yang mereka hias. Bodhisattwa menggunakan kekuatan pengheningan-Nya sehingga kelihatan bagi para pembuat pohon bahwa Ia duduk di bawah pohon yang telah mereka siapkan. Dalam panel kita hanya melihat lima pohon, dan para dewa menyiapkan tempat di sekeliling pohon dengan dupa wangi dan bunga. "
+            }
+          },
+          {
+            "path": "093 Bodhisattvas pay homage to our Bodhisattva.jpg",
+            "name": {
+              "en": "93 Bodhisattvas pay homage to our Bodhisattva ",
+              "id": "93 Para Bodhisattwa memberi hormat kepada Bodhisattwa kita"
+            },
+            "caption": {
+              "en": "The Bodhisattva sits down at the root of the Bodhi tree and, the Buddha fields throughout the universe are illuminated, and beings in them can all see what is happening. The leading Bodhisattvas in all the Buddha fields now adore our Bodhisattva, who is on the verge of Awakening; one stands to either side in the relief, while the gods look on. The Bodhisattva is pictured under the Bodhi tree, and, interestingly, there is the outline of a triangular roof protecting him. ",
+              "id": "Bodhisattwa duduk di akar pohon Bodhi, dan alam Buddha di segenap semesta jadi benderang, dan semua makhluk di dalamnya bisa melihat apa yang tengah terjadi. Para Bodhisattwa yang unggul di seluruh alam Buddha kini mengagumi Bodhisattwa kita, yang berada di ambang Kecerahan; satu Bodhisattwa berdiri di kedua sisi relief, sementara para dewa memandangi. Bodhisattwa kita digambarkan di bawah pohon Bodhi, dan, menariknya, ada garis atap segitiga yang menaungi-Nya. "
+            }
+          },
+          {
+            "path": "094 Mara and his Army attack the Bodhisattva who calls the Earth to Witness.jpg",
+            "name": {
+              "en": "94 Māra and his army attack the Bodhisattva who calls the Earth to witness ",
+              "id": "94 Māra dan pasukannya menyerang Bodhisattwa yang memanggil Bumi sebagai saksi"
+            },
+            "caption": {
+              "en": "In one of the most dynamic of the scenes, Māra and his armies attack the Bodhisattva, trying to prevent him from reaching Awakening, but the Bodhisattva remains calm and focused. Māra and his followers are shooting arrows at the Bodhisattva, but as they approach they turn into flowers and fall harmlessly to the floor. Notice the elephant, the monkey, and one of the demons using a blow pipe in this scene. ",
+              "id": "Dalam salah satu adegan yang paling seru, Māra dan pasukannya menyerbu Bodhisattwa, berusaha mencegah-Nya mencapai Kecerahan, namun Bodhisattwa tetap tenang dan terpusat. Māra dan pengikutnya menembakkan anak panah ke Bodhisattwa, namun ketika anak panah mendekat, mereka berubah jadi bunga dan gugur lunglai ke tanah. Perhatikan gajah, kera, dan salah satu siluman memakai senjata sumpit dalam adegan ini. "
+            }
+          },
+          {
+            "path": "095 Mara sends his Daughters to entice the Bodhisattva.jpg",
+            "name": {
+              "en": "95 Māra sends his daughters to entice the Bodhisattva ",
+              "id": "95 Māra mengutus putri-putrinya untuk menggoda Bodhisattwa"
+            },
+            "caption": {
+              "en": "In one last effort to draw the Bodhisattva’s mind away from Awakening, Māra, seated on the left, now sends his three daughters to dance before him. Here we see the three daughters of Māra, two are dancing to his left, and one is worshipping to his right. They are surrounded by others who display the charms of sensual pleasures. The Bodhisattva though remains set on his task. ",
+              "id": "Dalam satu upaya terakhir untuk menarik batin Bodhisattwa dari Kecerahan, Māra, duduk di kiri, kini mengutus tiga putrinya untuk menari di hadapan-Nya. Di sini kita melihat tiga putri Māra, dua menari di kiri-Nya, dan satu menghormat di kanan-Nya. Mereka dikelilingi banyak lainnya yang menampilkan pesona kenikmatan indrawi. Namun, Bodhisattwa tetap teguh pada tujuan-Nya. "
+            }
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": {
+          "en": "Awakening and Teaching",
+          "id": "Kecerahan dan Pengajaran"
+        },
+        "slides": [
+          {
+            "path": "096 The Bodhisattva attains Awakening and becomes the Buddha.jpg",
+            "name": {
+              "en": "96 The Bodhisattva attains Awakening and becomes the Buddha ",
+              "id": "96 Bodhisattwa mencapai Kecerahan dan menjadi Buddha"
+            },
+            "caption": {
+              "en": "Then the Bodhisattva in the three watches of the night attained the divine eye, the knowledge of the arising and falling of beings according to karma, and the knowledge of the destruction of the pollutants, and attained complete and perfect Awakening. In the relief we see the gods have come to strew divine flowers and other gifts around the newly Awakened Buddha, some fly through the air, others sit on the ground. ",
+              "id": "Kemudian Bodhisattwa dalam tiga waktu jaga malam itu mencapai mata surgawi, pengetahuan muncul dan berlalunya makhluk sesuai karma, serta pengetahuan hancurnya noda batin, dan mencapai Kecerahan penuh dan sempurna. Dalam relief kita melihat dewa-dewa datang menghamparkan bebungaan surgawi dan persembahan lainnya di sekitar Buddha yang baru mencapai Kecerahan, sebagian terbang di udara, yang lainnya duduk di tanah. "
+            }
+          },
+          {
+            "path": "097 Umbrellas.jpg",
+            "name": {
+              "en": "97 Other Buddhas send umbrellas to shade Gautama Buddha ",
+              "id": "97 Buddha-Buddha lain mengirim payung untuk menaungi Buddha Gautama"
+            },
+            "caption": {
+              "en": "All the other Buddhas in the great universe also became aware of the Gautama Buddha’s achievement, and they sent gifts of Dharma, jewels and umbrellas to mark the occasion. The apsaras are sat around, holding divine flowers and the like, but the other Buddhas are not pictured, we see only the umbrellas, flowers and jewels that they sent. ",
+              "id": "Semua Buddha lainnya di semesta raya juga menyadari pencapaian Buddha Gautama, dan Mereka mengirim hadiah Dharma, permata, dan payung untuk merayakan peristiwa itu. Para bidadari duduk di sekitar, memegang bunga surgawi dan sejenisnya, namun Buddha-Buddha lainnya tidak digambarkan, kita hanya melihat payung, bunga, dan permata yang Mereka kirim. "
+            }
+          },
+          {
+            "path": "098 The Gods bathe the Buddha (end of first week).jpg",
+            "name": {
+              "en": "98 The gods bathe the Buddha (end of first week) ",
+              "id": "98 Para dewa memandikan Buddha (akhir minggu pertama) "
+            },
+            "caption": {
+              "en": "The Buddha spent the first week adoring the Bodhi tree under which he attained Awakening, and at the end of that period the gods approached and bathed the Buddha with scented water. We can see that the Buddha is in the same position he was in when Awakening, and hasn’t changed his posture since that time. The gods stand round with pitchers waiting to bathe him. ",
+              "id": "Buddha melewatkan minggu pertama mengagumi pohon Bodhi yang dibawahnya Ia mencapai Kecerahan, dan pada akhir periode itu para dewa mendekati dan memandikan Buddha dengan air wangi. Kita dapat melihat bahwa Buddha ada dalam posisi yang sama dengan saat Ia mencapai Kecerahan, dan belum mengubah posisi-Nya semenjak waktu itu. Para dewa berdiri di sekitar membawa kendi, menunggu untuk memandikan-Nya. "
+            }
+          },
+          {
+            "path": "099 The Buddha showing the Fearless Sign (third week).jpg",
+            "name": {
+              "en": "99 The Buddha showing the fearless sign (third week) ",
+              "id": "99 Buddha menunjukkan mudra tak gentar (minggu ketiga) "
+            },
+            "caption": {
+              "en": "The scene is probably from the third week after the Awakening, and the Buddha is sat on the Diamond Throne (Vajrāsana) reflecting about his Awakening. Still the gods sit round rejoicing in the Buddha’s attainment, while the Buddha himself shows the fearless sign (abhayamudrā), warding off evil from all beings. ",
+              "id": "Adegan ini mungkin berasal dari minggu ketiga setelah Kecerahan, dan Buddha duduk di Singgasana Intan (Vajrāsana) merenungi Kecerahan-Nya. Para dewa masih duduk di sekeliling merayakan pencapaianBuddha, sementara Buddha sendiri menampilkan sikap tangan tak gentar (abhayamudrā), menangkal kejahatan dari semua makhluk. "
+            }
+          },
+          {
+            "path": "100 The Buddha traversing from Ocean to Ocean (fourth week).jpg",
+            "name": {
+              "en": "100 The Buddha traversing from ocean to ocean (fourth week) ",
+              "id": "100 Buddha bepergian dari samudra ke samudra (minggu keempat) "
+            },
+            "caption": {
+              "en": "In the fourth week after the Awakening, the Buddha traversed the ocean in the east to the ocean in the west, with a youthful gait. The gods hold an umbrella over the Buddha as he walks surveying the lands. On the left someone is seen sitting in the forest, with wild animals around. ",
+              "id": "Pada minggu keempat setelah Kecerahan, Buddha melintasi samudra di timur ke samudra di barat, dengan sikap seperti pemuda. Para dewa memegang payung di atas Buddha tatkala Ia berjalan meninjau negeri. Di kiri seseorang terlihat duduk di hutan, dengan banyak hewan liar di sekitar. "
+            }
+          },
+          {
+            "path": "101 The Buddha meets Mucilinda (fifth week).jpg",
+            "name": {
+              "en": "101 The Buddha meets Mucilinda (fifth week) ",
+              "id": "101 Buddha bertemu Mucilinda (minggu kelima) "
+            },
+            "caption": {
+              "en": "In the fifth week a great storm arose and in order to protect the Buddha from the elements, the Nāga King Mucilinda wrapped himself around the Buddha and held his seven hoods above him like an umbrella. There is a mystery in this depiction in that we have a child sat on an elephant next to the Buddha, but there is no known story to account for that. Mucilinda himself, with his seven hoods, is seen worshipping, and other nāgas stand behind him holding gifts. ",
+              "id": "Pada minggu kelima, muncul badai besar, dan untuk melindungi Buddha dari cuaca, Raja Nāga Mucilinda melilitkan dirinya mengelilingi Buddha dan menaungkan tujuh tudungnya di atas-Nya laksana payung. Ada misteri dalam penggambaran ini bahwasanya ada anak duduk di atas gajah di sisi Buddha, namun tidak ada kisah yang kita kenal mengenai itu. Mucilinda sendiri, dengan tujuh tudungnya, tampak menghormat, dan nāganāga lain berdiri di belakangnya memegang persembahan. "
+            }
+          },
+          {
+            "path": "102 The Buddha meets Ascetics in the Vicinity (sixth week).jpg",
+            "name": {
+              "en": "102 The Buddha meets ascetics in the vicinity (sixth week) ",
+              "id": "102 Buddha bertemu para petapa di sekitar situ (minggu keenam) "
+            },
+            "caption": {
+              "en": "The Buddha now meets with representatives of various ascetic groups, including wanderers and Jainas, who ask him how he spent the inclement week. His reply is, those who know the Dharma always live pleasantly. The gods are once more pictured behind the Buddha, while those in front are from the various ascetic groups enquiring after the Buddha’s comfort. ",
+              "id": "Buddha kini bertemu dengan perwakilan berbagai kelompok petapa, termasuk petapa kelana dan Jain, yang bertanya bagaimana Ia melewati minggu penuh cuaca buruk. Jawaban-Nya adalah, mereka yang mengetahui Dhamma selalu hidup dengan nyaman. Para dewa sekali lagi digambarkan di belakang Buddha, sementara mereka yang di depan berasal dari berbagai kelompok petapa yang menanyakan kenyamanan Buddha. "
+            }
+          },
+          {
+            "path": "103 The Buddha meets Trapusa and Bhallika (seventh week).jpg",
+            "name": {
+              "en": "103 The Buddha meets Trapuṣa and Bhallika (seventh week) ",
+              "id": "103 Buddha bertemu Trapuṣa dan Bhallika (minggu ketujuh) "
+            },
+            "caption": {
+              "en": "In the seventh week after the Awakening two merchants, Trapuṣa and Bhallika, who were headed north, see the Buddha, but at first think he must be a god come to Earth. He then shows his ascetics robes, and they decide to offer alms-food. The merchants are seen on the right of the panel, standing over their alms-gifts, and around them are other members of their party. On the left the gods wait in attendance on the Buddha. ",
+              "id": "Pada minggu ketujuh setelah Kecerahan, dua saudagar, Trapuṣa dan Bhallika, yang sedang bepergian ke utara, menemui Buddha, namun pada awalnya berpikir bahwa Ia pasti dewa yang turun ke Bumi. Ia kemudian menunjukkan jubah petapanya, dan mereka memutuskan untuk mempersembahkan makanan derma. Para saudagar terlihat di kanan panel, berdiri di atas derma mereka, dan di sekeliling ada anggota rombongan mereka lainnya. Di kiri para dewa menunggu menjaga Buddha. "
+            }
+          },
+          {
+            "path": "104 The Four Great Kings offer the Buddha four Bowls.jpg",
+            "name": {
+              "en": "104 The Four Great Kings offer the Buddha four bowls ",
+              "id": "104 Empat Maharaja Dewa mempersembahkan empat mangkuk kepada Buddha "
+            },
+            "caption": {
+              "en": "Then the Buddha, seeing that he had no way to accept the merchants’ alms-food, thought to himself: how did previous Buddhas accept gifts? And he knew they did so in stone bowls. The Four Great Kings, who protect the four quarters, knowing this thought of the Buddha, brought four stone bowls for him, as can still just about be seen in this worn-down panel. ",
+              "id": "Kemudian Buddha, melihat bahwa Ia tidak memiliki sarana menerima derma makanan para saudagar, berpikir: bagaimana cara para Buddha lampau menerima pemberian? Dan Ia mengetahui bahwa para Buddha melakukannya dengan menggunakan mangkuk batu. Empat Maharaja Dewa, yang melindungi empat penjuru, mengetahui pikiran Buddha ini, membawa empat mangkuk batu untuk-Nya, seperti yang masih bisa dilihat dalam panel yang terkikis ini. "
+            }
+          },
+          {
+            "path": "105 The Buddha accepts the refined Curds in the Vessel called Candra.jpg",
+            "name": {
+              "en": "105 The Buddha accepts the refined curds in the vessel called Candra ",
+              "id": "105 Buddha menerima dadih murni dalam wadah yang disebut Candra "
+            },
+            "caption": {
+              "en": "Taking the milk of a thousand cows, and refining it over and over again; Trapuṣa and Bhallika prepare food for the Buddha, and present it in a jewelled vessel called Candra. On the left we see Trapuṣa holding up the wonderful vessel filled with refined curds, with his followers behind him. On the right sit the gods. ",
+              "id": "Mengambil susu dari seribu ekor sapi, dan memurnikannya berulang kali; Trapuṣa dan Bhallika menyiapkan makanan untuk Buddha, dan mempersembahkannya dalam bejana berpermata yang disebut Candra. Di kiri kita melihat Trapuṣa memegang wadah indah berisi dadih murni, dengan para pengikut di belakangnya. Di kanan duduk para dewa. "
+            }
+          },
+          {
+            "path": "106 Sikhi Mahabrahma requests the Buddha to Teach.jpg",
+            "name": {
+              "en": "106 Śikhī Mahābrahmā requests the Buddha to teach ",
+              "id": "106 Mahābrahmā Śikhī meminta Buddha untuk mengajar "
+            },
+            "caption": {
+              "en": "The Buddha was disinclined to teach because of the difficulty of getting others to understand his realisation. Śikhī Mahābrahmā, realising this, surrounded by other gods, approaches the Buddha and asks him to teach. Śikhī Mahābrahmā is on the right of the Buddha, and all around are the other gods. Unfortunately a lot of this panel is worn, and we cannot see the expressions on the face of the Buddha or some of the gods. ",
+              "id": "Buddha enggan mengajar karena sulitnya membuat orang lain memahami penembusan-Nya. Mahābrahmā Śikhī, menyadari ini, dikelilingi dewa-dewa lainnya, mendekati Buddha dan memohon-Nya untuk mengajar. Mahābrahmā Śikhī di kanan Buddha, dan di sekelilingnya adalah dewa-dewa lainnya. Sayangnya banyak bagian panel ini sudah tergerus, dan kita tidak dapat melihat ekspresi wajah Buddha atau sebagian dewa-dewanya. "
+            }
+          },
+          {
+            "path": "107 Sakra Lord of the Gods requests the Buddha to Teach.jpg",
+            "name": {
+              "en": "107 Śakra, lord of the gods, requests the Buddha to teach ",
+              "id": "107 Śakra, raja dewa, memohon kepada Buddha untuk mengajar "
+            },
+            "caption": {
+              "en": "The Tathāgata has still not agreed to teach, so the lord of the gods, Śakra, approached him and begged him to do so in verse. Again the panel is badly damaged in places, and we can hardly see Śakra sat on Buddha’s right, but we do see most of the other gods, including a couple who sit on the clouds above the lord of the gods. ",
+              "id": "Tathāgata masih belum menyetujui untuk mengajar, maka raja dewa, Śakra, mendatangi-Nya dan memohon-Nya dalam syair. Lagi-lagi panel ini rusak parah di banyak tempat, dan kita nyaris tak dapat melihat Śakra yang duduk di kanan Buddha, namun kita melihat kebanyakan dewa lainnya, termasuk sepasang dewa yang duduk di awan di atas sang raja dewa. "
+            }
+          },
+          {
+            "path": "108 The Buddha agrees to Teach for the Benefit of Gods and Men.jpg",
+            "name": {
+              "en": "108 The Buddha agrees to teach for the benefit of gods and men ",
+              "id": "108 Buddha setuju mengajar demi kebaikan para dewa dan manusia "
+            },
+            "caption": {
+              "en": "Now the Buddha is requested once again by Śikhī who speaks eloquently in verse, reminding him that a false Dharma has arisen in the world, and he alone knows and can teach the true Dharma. The Buddha looks around the world, and realises there are three classes of beings, and that some will be able to understand his teachings, he therefore agrees to the gods’ request, and informs them so. ",
+              "id": "Kini Buddha diminta sekali lagi oleh Śikhī yang berbicara dengan fasih dalam syair, mengingatkan-Nya bahwa Dharma yang keliru telah muncul di dunia, dan Ia sendirilah yang mengetahui dan dapat mengajar Dharma sejati. Buddha memindai segenap dunia, dan menyadari ada tiga golongan makhluk, dan bahwa sebagian akan mampu memahami ajaran-Nya, karena itu Ia menyetujui permintaan para dewa, dan memberitahu keputusan-Nya kepada mereka. "
+            }
+          },
+          {
+            "path": "109 Beginning the Journey to Rsipatana.jpg",
+            "name": {
+              "en": "109 Beginning the Journey to Ṛṣipatana ",
+              "id": "109 Memulai perjalanan ke Ṛṣipatana "
+            },
+            "caption": {
+              "en": "We cannot identify this or the following panels for sure. As it appears the next panel must be the meeting with Upaga this scene needs to represent a meeting before that one, but no such scene is mentioned. What we do see is the Bodhisattva has now stood up and is presumably starting his journey to Ṛṣipatana. The Bodhisattva extends his hand to receive something from the three people in front of him. The female has a lotus shoot. The standing male a dish of some sort. On the far left of the relief what looks like four gods are sat on the floor watching. ",
+              "id": "Kita tidak bisa mengenali ini atau panel selanjutnya secara pasti. Seperti terlihat, panel berikutnya harusnya pertemuan dengan Upaga, adegan ini perlu menampilkan pertemuan sebelum yang satu itu, namun adegan demikian tak disebutkan. Yang kita lihat adalah Bodhisattwa kini telah berdiri dan kemungkinan memulai perjalanan-Nya ke Ṛṣipatana. Bodhisattwa menjulurkan tangan-Nya untuk menerima sesuatu dari tiga orang di depan-Nya. Yang perempuan membawa batang teratai. Lelaki membawa sejenis makanan. Di kiri jauh relief tampak empat dewa duduk di lantai menyaksikan. "
+            }
+          },
+          {
+            "path": "110 The Meeting with the Ajivaka Upaga.jpg",
+            "name": {
+              "en": "110 The Meeting with the Ājīvaka Upaga ",
+              "id": "110 Pertemuan dengan Ājīvaka Upaga "
+            },
+            "caption": {
+              "en": "After the Buddha had begun his journey he met with a group of Ājīvakas near to Gayā. One of them remarked on how serene the Buddha looked and asked who his teacher was? The Buddha replied that he had no teacher but was Awakened by himself. The Buddha is standing on a lotus cushion, and behind him a god holds an umbrella. In front of him are three ascetics, who must be Ājīvakas. They all have on very light and fairly simple clothing and two of them hold their hands in añjali. ",
+              "id": "Setelah Buddha memulai perjalanan-Nya, Ia bertemu dengan sekelompok Ājīvaka di dekat Gayā. Salah satu dari mereka berucap betapa Buddha terlihat tenteram dan bertanya siapa guru-Nya? Buddha menjawab bahwa Ia tak punya guru, namun tercerahkan sendiri. Buddha berdiri di alas teratai, dan di belakang-Nya sesosok dewa memegang payung. Di depannya ada tiga petapa, yang pasti para Ājīvaka. Mereka semua berpakaian sangat tipis dan cukup sederhana, dan dua dari mereka menangkup tangan menghormat. "
+            }
+          },
+          {
+            "path": "111 Naga Sudarsana at Aparagaya.jpg",
+            "name": {
+              "en": "111 Nāga Sudarśana at Aparagayā ",
+              "id": "111 Nāga Sudarśana di Aparagayā "
+            },
+            "caption": {
+              "en": "The text mentions that just after the meeting with the Ājīvakas the Buddha was entertained by the nāga-king Sudarśana, and this relief probably represents that meeting. The Buddha is now sat on a throne, no doubt prepared by the nāga-king. Towards the centre we see the king himself and his retinue, identifiable by the snake-hoods atop their heads. A great retinue has gathered round to honour the Buddha. ",
+              "id": "Naskah menyebutkan bahwa tepat setelah pertemuan dengan para Ājīvaka, Buddha dilayani oleh Raja Nāga Sudarśana, dan relief ini mungkin mewakili pertemuan itu. Buddha kini duduk di takhta, tak diragukan lagi disiapkan oleh raja nāga. Ke tengah kita melihat raja sendiri dan pengiringnya, dikenali dari tudung ular di atas kepala mereka. Rombongan besar berkumpul untuk menghormati Buddha. "
+            }
+          },
+          {
+            "path": "112 Being Entertained at Rohitavastu.jpg",
+            "name": {
+              "en": "112 Being Entertained at Rohitavastu ",
+              "id": "112 Dijamu di Rohitavastu "
+            },
+            "caption": {
+              "en": "The text mentions three other places where the Buddha stopped along the way to Ṛṣipatana, and these reliefs presumably show those imagined scenes. There is in fact nothing in the text describing these meetings, but they were perhaps included to emphasise the respect the Buddha received along the way. The Buddha sits on a throne again in a pavilion, and has his hand held in blessing. Several of his hosts sit on the floor while a number of standing females hold gifts of one sort or another. ",
+              "id": "Naskah menyebutkan tiga tempat lain di mana Buddha berhenti di sepanjang jalan menuju Ṛṣipatana, dan relief-relief ini agaknya menunjukkan adeganadegan yang dibayangkan itu. Sebenarnya tidak ada naskah yang menjelaskan pertemuan ini, tetapi itu mungkin dimasukkan untuk menekankan penghormatan yang diterima Buddha di sepanjang jalan. Buddha duduk di takhta lagi di anjungan, dan tangan-Nya memberkahi. Beberapa penjamu-Nya duduk di lantai, sementara sejumlah perempuan yang berdiri memegang persembahan satu dan lain jenis. "
+            }
+          },
+          {
+            "path": "113 Being Entertained at Urubilvakalpa.jpg",
+            "name": {
+              "en": "113 Being Entertained at Urubilvakalpa ",
+              "id": "113 Dijamu di Urubilvakalpa "
+            },
+            "caption": {
+              "en": "The Buddha is standing on the right with his hand held out in blessings again. On the far right of the relief kneels a nāga. It is clear if he is the host, it rather seems not to be so, but then what his role is we do not know. In front of the Buddha are several people, one of whom has his hands on the floor in front of him. I think this would be the host. Behind them is a lion throne, which is where the Buddha will sit while being fed. ",
+              "id": "Buddha berdiri di kanan dengan tangan-Nya terjulur memberkahi lagi. Di ujung kanan relief, berlutut sesosok nāga. Jelas bahwa jika ia adalah penjamunya, sepertinya tidak tampak begitu, tapi lalu apa perannya kita tidak tahu. Di depan Buddha ada beberapa orang, salah satunya meletakkan tangan di lantai di depan-Nya. Saya rasa ini adalah penjamunya. Di belakang mereka ada takhta singa, di mana Buddha akan duduk sembari dipersembahkan makanan. "
+            }
+          },
+          {
+            "path": "114 Being Entertained at Sarathipura.jpg",
+            "name": {
+              "en": "114 Being Entertained at Sārathipura ",
+              "id": "114 Dijamu di Sārathipura "
+            },
+            "caption": {
+              "en": "Before Sārathipura another place, Aṇāla is mentioned. We have no way of identifying any of the places, of course. The Buddha is sat in this relief in the midst of a large gathering of people, many of whom bear gifts. He has his hand raised in vitarka-mudrā and is therefore teaching. On either side many people gather round, either holding gifts or showing signs of respect. Some of the expressions on their faces are sublime. ",
+              "id": "Sebelum Sārathipura, ada tempat lain, Aṇāla, disebutkan. Tentu saja kami tak punya cara untuk mengenali tempat. Buddha duduk di relief ini di tengah sekumpulan besar orang, banyak di antaranya membawa persembahan. Ia mengangkat tangan-Nya dalam mudra vitarka dan karena itu sedang mengajar. Di kedua sisi banyak orang berkumpul, baik memegang persembahan atau menunjukkan tanda penghormatan. Beberapa pancaran wajah mereka luhur. "
+            }
+          },
+          {
+            "path": "115 The Buddha crosses the Ganges.jpg",
+            "name": {
+              "en": "115 The Buddha crosses the Ganges by flying through the air ",
+              "id": "115 Buddha menyeberang Sungai Gangga dengan terbang ke angkasa "
+            },
+            "caption": {
+              "en": "This panel represents a famous scene where the Buddha had reached the shore of the Ganges and needs to cross over. The ferryman, however, demands payment for the crossing, which the Buddha cannot give. He therefore crossed over by his own spiritual powers. The ferryman is depicted sitting dejected at his unwholesome deed in refusing to take the Buddha over. The ferryman reported this incident to King Bimbisāra, who henceforth exempted all ascetics from having to pay to cross the rivers in his land. ",
+              "id": "Panel ini mewakili adegan terkenal di mana Buddha mencapai tepi Gangga dan perlu menyeberang. Akan tetapi, tukang perahu minta bayaran untuk menyeberangkan, yang Buddha tidak bisa berikan. Karena itu Ia menyeberang dengan kekuatan batin-Nya sendiri. Tukang perahu digambarkan duduk kecewa pada perbuatannya kurang layaknya sendiri menolak menyeberangkan Buddha. Tukang perahu melaporkan kejadian ini kepada Raja Bimbisāra, yang semenjak itu membebaskan semua petapa dari keharusan membayar untuk menyeberang sungai di wilayahnya. "
+            }
+          },
+          {
+            "path": "116 The Buddha is offered Alms in Varanasi.jpg",
+            "name": {
+              "en": "116 The Buddha is offered alms in Vārānaṣī ",
+              "id": "116 Buddha diberi derma di Vārānaṣī "
+            },
+            "caption": {
+              "en": "The Buddha, having now crossed the river Ganges, enters Vārānaṣī and proceeds on his alms-round through the city early in the morning. We see people beside the gate, pictured on the left of the panel, the ones who are standing are presenting alms-food to the Buddha in his bowl. ",
+              "id": "Buddha, setelah kini menyeberang Sungai Gangga, memasuki Vārānaṣī dan selanjutnya melakukan sambut derma di kota pagi harinya. Kita melihat orang-orang di samping gerbang, digambarkan di kiri panel, orang-orang yang berdiri menyerahkan derma makanan kepada Buddha ke dalam mangkuk-Nya. "
+            }
+          },
+          {
+            "path": "117 The Buddha meets the Auspicious Group of Five.jpg",
+            "name": {
+              "en": "117 The Buddha meets the Auspicious Group of Five ",
+              "id": "117 Buddha bertemu Kelompok Lima Petapa Bajik "
+            },
+            "caption": {
+              "en": "The Buddha now leaves Vārānaṣī and walks to the Deer Park at Ṛṣipatana where he meets up with his previous companions, the Auspicious Group of Five monks. They at first agree amongst themselves not to greet him or pay respect to him, but as the Buddha approaches they are unable to keep to their agreement. They rise and treat him with all due respect. ",
+              "id": "Buddha kini meninggalkan Vārānaṣī dan berjalan ke Taman Rusa di Ṛṣipatana di mana Ia bertemu dengan teman-teman terdahulu-Nya, Kelompok Lima Petapa Bajik. Mereka awalnya bersepakat di antara mereka untuk tidak menyambut atau memberi hormat kepada-Nya, namun tatkala Buddha mendekat mereka tidak sanggup menjaga kesepakatan mereka. Mereka bangkit dan memperlakukan-Nya dengan segala hormat. "
+            }
+          },
+          {
+            "path": "118 The Group of Five become Bhiksus.jpg",
+            "name": {
+              "en": "118 The Group of Five become Bhikṣus ",
+              "id": "118 Kelompok Lima Petapa menjadi biksu "
+            },
+            "caption": {
+              "en": "The Buddha is now sat in the middle of the relief on a large throne and the Group of Five have been transformed miraculously into monks (bhikṣus) following their acceptance of the Awakening of the Buddha. We see three of the new bhikṣus on the right of the relief, and two on the left. The park is shown by the trees which form the background. On the far left we see four devas who witness the scene sat under one of the trees. ",
+              "id": "Buddha kini duduk di tengah relief di takhta besar dan Kelompok Lima Petapa telah diubah secara ajaib menjadi biksu setelah mereka menerima Kecerahan Buddha. Kita melihat tiga dari biksu baru itu di kanan relief, dan dua di kiri. Taman ditunjukkan oleh pohon-pohon yang membentuk latar. Di paling kiri kita melihat empat dewa yang menyaksikan adegan duduk di bawah salah satu pohon. "
+            }
+          },
+          {
+            "path": "119 The Buddha is washed with scented water by the monks.jpg",
+            "name": {
+              "en": "119 The Buddha is washed with scented water by the monks ",
+              "id": "119 Buddha dibasuh dengan air wangi oleh para biksu "
+            },
+            "caption": {
+              "en": "The monks, having asked for forgiveness for their transgressions in not accepting the Buddha, now made arrangements to take the Buddha to a nearby pond where they will bathe him. The Buddha is once again sat on a throne, this time in the midst of a lotus pond, while water is poured over him by two of the monks. Another holds fresh robes for him to don before teaching. On the right stand four nāgas who have emerged from the pond. ",
+              "id": "Para biksu, setelah minta maaf atas pelanggaran mereka karena tidak menyambut Buddha, kini membuat pengaturan untuk membawa Buddha ke kolam terdekat di mana mereka akan memandikan-Nya. Sekali lagi Buddha duduk di takhta, kali ini di tengah kolam teratai, sementara air diguyur oleh dua biksu. Yang lain memegang jubah baru untuk-Nya untuk dikenakan sebelum mengajar. Di kanan berdiri empat nāga yang telah muncul dari kolam. "
+            }
+          },
+          {
+            "path": "120 The Buddha turns the Wheel of the Dharma.jpg",
+            "name": {
+              "en": "120 The Buddha turns the Wheel of the Dharma ",
+              "id": "120 Buddha memutar Roda Dharma "
+            },
+            "caption": {
+              "en": "Having sought out the place where all previous Buddhas sat when they delivered their First Discourse, the Buddha approached the spot and sat down, and began his teaching career. The Buddha sits on a throne in the middle of the relief, with the Group of Five on the left and many gods gathered round, either sitting in respectful posture or watching from the clouds. ",
+              "id": "Setelah menemukan tempat di mana semua Buddha lampau duduk ketika Mereka menyampaikan Pembabaran Pertama Mereka, Buddha mendekati tempat itu dan duduk, dan memulai karier pengajaran-Nya. Buddha duduk di takhta di tengah relief, dengan Kelompok Lima Petapa di kiri dan banyak dewa berkumpul, ada yang duduk dalam sikap hormat atau menyaksikan dari awan. "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "series2",
+    "name": {
+      "id": "s2 - bhasa",
+      "en": "s2 - english"
+    },
+    "description": {
+      "id": "s2 - desc - bhasa",
+      "en": "s2 - desc - english"
+    },
+    "enabled": false,
+    "chapters": [
+      {
+        "id": "1",
+        "name": {
+          "en": "c1 - en",
+          "id": "c1 - id"
+        },
+        "slides": [
+          {
+            "path": "/pic1.jpg",
+            "name": {
+              "en": "p1 - en",
+              "id": "p1 - id"
+            },
+            "caption": {
+              "en": "p1 - cap - en",
+              "id": "p1 - cap - id"
+            }
+          },
+        ]
+      }
+    ]
+  }
+]

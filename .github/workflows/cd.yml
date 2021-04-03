@@ -1,0 +1,37 @@
+name: Continuous Integration
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  Tests:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run tests
+      run: |
+        dotnet test --configuration "Debug" DR.CeritaReliefAvadana.Core.Test/DR.CeritaReliefAvadana.Core.Test.csproj
+        dotnet test --configuration "Debug" DR.CeritaReliefAvadana.UI.Test/DR.CeritaReliefAvadana.UI.Test.csproj
+        dotnet test --configuration "Release" DR.CeritaReliefAvadana.Core.Test/DR.CeritaReliefAvadana.Core.Test.csproj
+        dotnet test --configuration "Release" DR.CeritaReliefAvadana.UI.Test/DR.CeritaReliefAvadana.UI.Test.csproj
+
+  Android:
+    runs-on: macos-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build for Droid
+      run: |
+        nuget restore
+        msbuild DR.CeritaReliefAvadana.Droid/DR.CeritaReliefAvadana.Droid.csproj /verbosity:normal /t:Rebuild /p:Configuration=Debug
+        msbuild DR.CeritaReliefAvadana.Droid/DR.CeritaReliefAvadana.Droid.csproj /verbosity:normal /t:Rebuild /p:Configuration=Release
+
+  iOS:
+    runs-on: macos-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build for iOS
+      run: |
+        nuget restore
+        msbuild DR.CeritaReliefAvadana.iOS/DR.CeritaReliefAvadana.iOS.csproj /verbosity:normal /t:Rebuild /p:Configuration=Debug
+        msbuild DR.CeritaReliefAvadana.iOS/DR.CeritaReliefAvadana.iOS.csproj /verbosity:normal /t:Rebuild /p:Configuration=Release

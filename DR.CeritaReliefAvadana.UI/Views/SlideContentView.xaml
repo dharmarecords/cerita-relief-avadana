@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<v:MvxContentView
+  xmlns="http://xamarin.com/schemas/2014/forms"
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+  xmlns:v="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+  xmlns:viewModels="clr-namespace:DR.CeritaReliefAvadana.Core.ViewModels.Slides;assembly=DR.CeritaReliefAvadana.Core"
+  xmlns:c="clr-namespace:DR.CeritaReliefAvadana.UI.Converters"
+  x:Class="DR.CeritaReliefAvadana.UI.Views.SlideContentView"
+  x:TypeArguments="viewModels:SlideViewModel"
+>
+  <v:MvxContentView.Resources>
+    <ResourceDictionary>
+      <c:StringToImageSourceConverter x:Key="str2imgsrc" />
+    </ResourceDictionary>
+  </v:MvxContentView.Resources>
+
+  <ContentView.Content>
+    <StackLayout>
+      <Label
+        IsVisible="{Binding IsAChapterHeader}"
+        Grid.Row="1"
+        VerticalOptions="CenterAndExpand"
+        HorizontalOptions="Center"
+        FontSize="Large"
+        Text="{Binding Name}"
+      />
+      <Grid
+        IsVisible="{Binding IsASlide}"
+        Margin="5"
+      >
+        <Grid.RowDefinitions>
+          <RowDefinition Height="*" />
+          <RowDefinition Height="Auto" />
+          <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <Image
+          BackgroundColor="Gray"
+          Grid.Row="0"
+          Aspect="AspectFit"
+          HeightRequest="{Binding HeightRequest}"
+          Source="{Binding Path, Converter={StaticResource str2imgsrc}, ConverterParameter='Resources.slidepics'}"
+        />
+        <Label
+          Grid.Row="1"
+          HorizontalOptions="Center"
+          FontAttributes="Bold"
+          Text="{Binding Name}"
+        />
+        <Label
+          Grid.Row="2"
+          VerticalOptions="Start"
+          VerticalTextAlignment="Start"
+          Text="{Binding Caption}"
+        />
+      </Grid>
+    </StackLayout>
+  </ContentView.Content>
+</v:MvxContentView>

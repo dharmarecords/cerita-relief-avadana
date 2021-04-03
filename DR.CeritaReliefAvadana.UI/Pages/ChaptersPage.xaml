@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<v:MvxContentPage
+  x:Class="DR.CeritaReliefAvadana.UI.Pages.ChaptersPage"
+  xmlns="http://xamarin.com/schemas/2014/forms"
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+  xmlns:viewModels="clr-namespace:DR.CeritaReliefAvadana.Core.ViewModels.Chapters;assembly=DR.CeritaReliefAvadana.Core"
+  xmlns:v="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+  xmlns:views="clr-namespace:DR.CeritaReliefAvadana.UI.Views"
+  NavigationPage.HasNavigationBar="False"
+  x:TypeArguments="viewModels:ChaptersViewModel"
+>
+  <ScrollView>
+    <StackLayout BindableLayout.ItemsSource="{Binding Chapters}" Orientation="Vertical">
+      <BindableLayout.ItemTemplate>
+        <DataTemplate>
+          <views:ChapterContentView BindingContext="{Binding}" />
+        </DataTemplate>
+      </BindableLayout.ItemTemplate>
+    </StackLayout>
+  </ScrollView>
+</v:MvxContentPage>

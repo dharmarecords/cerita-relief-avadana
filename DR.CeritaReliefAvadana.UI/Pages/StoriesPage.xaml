@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<v:MvxContentPage
+  x:Class="DR.CeritaReliefAvadana.UI.Pages.StoriesPage"
+  xmlns="http://xamarin.com/schemas/2014/forms"
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+  xmlns:viewModels="clr-namespace:DR.CeritaReliefAvadana.Core.ViewModels.Stories;assembly=DR.CeritaReliefAvadana.Core"
+  xmlns:v="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+  xmlns:b="clr-namespace:DR.CeritaReliefAvadana.UI.Behaviors"
+  xmlns:e="clr-namespace:DR.CeritaReliefAvadana.UI.Extensions"
+  xmlns:views="clr-namespace:DR.CeritaReliefAvadana.UI.Views"
+  NavigationPage.HasNavigationBar="False"
+  x:TypeArguments="viewModels:StoriesViewModel"
+>
+  <StackLayout>
+    <StackLayout
+      Orientation="Horizontal"
+      FlowDirection="RightToLeft"
+    >
+      <ImageButton
+          BackgroundColor="Transparent"
+          WidthRequest="31"
+          HeightRequest="32"
+          Padding="5,5,5,0"
+          Source="{e:ImageResource Resources.images.gear.png}"
+          HorizontalOptions="Center"
+          VerticalOptions="Center"
+        >
+        <ImageButton.Behaviors>
+          <b:EventToCommandBehavior EventName="Clicked" Command="{Binding ShowSettingsCommand}" />
+        </ImageButton.Behaviors>
+      </ImageButton>
+    </StackLayout>
+    <ScrollView>
+      <StackLayout BindableLayout.ItemsSource="{Binding Stories}" Orientation="Vertical">
+        <BindableLayout.ItemTemplate>
+          <DataTemplate>
+            <views:StoryContentView BindingContext="{Binding}" />
+          </DataTemplate>
+        </BindableLayout.ItemTemplate>
+      </StackLayout>
+    </ScrollView>
+  </StackLayout>
+</v:MvxContentPage>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<v:MvxContentPage
+  x:Class="DR.CeritaReliefAvadana.UI.Pages.LocalePickerPage"
+  xmlns="http://xamarin.com/schemas/2014/forms"
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+  xmlns:viewModels="clr-namespace:DR.CeritaReliefAvadana.Core.ViewModels.LocalePicker;assembly=DR.CeritaReliefAvadana.Core"
+  xmlns:v="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+  xmlns:b="clr-namespace:DR.CeritaReliefAvadana.UI.Behaviors"
+  xmlns:e="clr-namespace:DR.CeritaReliefAvadana.UI.Extensions"
+  xmlns:xf="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.Core"
+  NavigationPage.HasNavigationBar="False"
+  x:TypeArguments="viewModels:LocalePickerViewModel"
+>
+  <v:MvxContentPage.Resources>
+    <ResourceDictionary>
+      <xf:ColorTypeConverter x:Key="str2Col" />
+    </ResourceDictionary>
+  </v:MvxContentPage.Resources>
+
+  <StackLayout
+    HorizontalOptions="Center"
+    VerticalOptions="Center"
+  >
+    <StackLayout
+      Orientation="Horizontal"
+    >
+      <Image
+        WidthRequest="32"
+        Source="{e:ImageResource Resources.images.id.png}"
+        HorizontalOptions="Center"
+        VerticalOptions="Center"
+      >
+      </Image>
+      <Button Text="bahasa Indonesia"
+        WidthRequest="200"
+        BackgroundColor="{Binding IdButtonBackgroundColor}"
+        BorderRadius="10"
+        HorizontalOptions="Center"
+      >
+        <Button.Behaviors>
+          <b:EventToCommandBehavior EventName="Pressed" Command="{Binding IdButtonPressed}" />
+        </Button.Behaviors>
+      </Button>
+    </StackLayout>
+    <StackLayout
+      Orientation="Horizontal"
+    >
+      <Image
+        WidthRequest="32"
+        Source="{e:ImageResource Resources.images.en.png}"
+        HorizontalOptions="Center"
+        VerticalOptions="Center"
+      >
+      </Image>
+      <Button Text="English"
+        WidthRequest="200"
+        BackgroundColor="{Binding EnButtonBackgroundColor}"
+        BorderRadius="10"
+        HorizontalOptions="Center"
+      >
+        <Button.Behaviors>
+          <b:EventToCommandBehavior EventName="Pressed" Command="{Binding EnButtonPressed}" />
+        </Button.Behaviors>
+      </Button>
+    </StackLayout>
+  </StackLayout>
+</v:MvxContentPage>

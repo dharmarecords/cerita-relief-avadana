@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "oderwat.indent-rainbow",
+    "aaron-bond.better-comments",
+    "coenraads.bracket-pair-colorizer",
+  ]
+}

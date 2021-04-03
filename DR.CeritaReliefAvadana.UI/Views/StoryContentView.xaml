@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<v:MvxContentView
+  xmlns="http://xamarin.com/schemas/2014/forms"
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+  xmlns:v="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+  xmlns:viewModels="clr-namespace:DR.CeritaReliefAvadana.Core.ViewModels.Stories;assembly=DR.CeritaReliefAvadana.Core"
+  xmlns:b="clr-namespace:DR.CeritaReliefAvadana.UI.Behaviors"
+  xmlns:e="clr-namespace:DR.CeritaReliefAvadana.UI.Extensions"
+  x:Class="DR.CeritaReliefAvadana.UI.Views.StoryContentView"
+  x:TypeArguments="viewModels:StoryViewModel"
+>
+  <ContentView.Content>
+    <Frame
+      BorderColor="Gray"
+      Padding="10"
+    >
+      <StackLayout
+        Orientation="Horizontal"
+      >
+        <ImageButton
+          BackgroundColor="Transparent"
+          WidthRequest="61"
+          HeightRequest="64"
+          Padding="10"
+          Source="{e:ImageResource Resources.images.chevron-left.png}"
+          HorizontalOptions="Center"
+          VerticalOptions="Center"
+        >
+          <ImageButton.Behaviors>
+            <b:EventToCommandBehavior EventName="Clicked" Command="{Binding SelectStoryCommand}" />
+          </ImageButton.Behaviors>
+        </ImageButton>
+        <StackLayout>
+          <Label
+            FontSize="Large"
+            FontAttributes="Bold"
+            Text="{Binding Name}"
+          />
+          <Label
+            Text="{Binding Author}"
+          />
+          <Label
+            FontSize="Medium"
+            Text="{Binding Description}"
+          />
+        </StackLayout>
+      </StackLayout>
+    </Frame>
+  </ContentView.Content>
+</v:MvxContentView>

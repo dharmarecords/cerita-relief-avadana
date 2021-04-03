@@ -1,0 +1,197 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\images\gear.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\images\chevron-left.png" />
+    <EmbeddedResource Include="Resources\images\en.png" />
+    <EmbeddedResource Include="Resources\images\gear.png" />
+    <EmbeddedResource Include="Resources\images\id.png" />
+    <EmbeddedResource Include="Resources\slidepics\001 Bodhisattva in Tusita Heaven amongst the Gods.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\002 Bodhisattvas Announcement that he will be Reborn on Earth.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\003 The Gods take the form of Brahmins on Earth.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\004 Pratyeka Buddhas leave Earth now that the Bodhisattva will be Born.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\005 Bodhisattvas Guidance to the Gods.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\006 Passing the Crown to Maitreya.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\007 Choosing the Incarnation.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\008 King Suddhodana and Queen Maya.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\009 Goddesses visit Queen Maya who has vowed Celibacy.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\010 The Gods discuss who should accompany the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\011 The Gods venerate the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\012 The Bodhisattva descends to Earth accompanied by the Gods.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\013 The Bodhisattva enters Queen Maya's Womb.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\014 The Bodhisattva inside Queen Mayas Womb.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\015 The Queen wishes to meet King Suddhodana in the Asoka Park.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\016 The King goes to meet the Queen.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\017 The Queen tells her Dream to the Brahmins.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\018 The Brahmins interpret the Queens Dream.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\019 The Brahmins receive Gifts.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\020 The Gods preparing for Queen Maya.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\021 Queen Maya in more than one Palace.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\022 Queen Maya heals the Sick.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\023 The Sakyans give Gifts to the Poor.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\024 King Suddhodana visits Queen Maya.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\025 The Portents before the Bodhisattvas Birth.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\026 Queen Mayas Time Draws Near.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\027 Queen Maya traveling to Lumbini.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\028 Queen Maya gives Birth.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\029 The King holds a Festival to celebrate the Birth.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\030 The Bodhisatta is given to Gautami.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\031 Asita predicts the Bodhisattva will become Buddha.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\032 The Gods worship Sarvarthasiddha.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\033 The King is requested to take Sarvarthasiddha to the Temple.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\034 The Procession to the Temple.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\035 The Statues worship Sarvarthasiddha.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\036 Aristocrats present Jewelery to Sarvarthasiddha.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\037 Sarvarthasiddha goes to School.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\038 Sarvarthasiddha studying in the Classroom.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\039 Sarvarthasiddha in the Villages.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\040 Sarvarthasiddha meditating under a Guava Tree.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\041 The Family decide to request Sarvarthasiddha to Marry.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\042 Presenting a Ring to Gopa.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\043 Sarvarthasiddha consenting to a Contest.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\044 Devadatta beats an Elephant to Death.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\045 Sundarananda removes the Elephant.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\046 Sarvarthasiddha excels at Mathematics.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\047 Sarvarthasiddha wins a Competition.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\048 Sarvarthasiddha wins another Competition.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\049 Sarvarthasiddha wins an Archery Competition.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\050 Dandapani gives his Daughter to the King for the Prince.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\051 Sarvarthasiddha and Gopa in the Palace.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\052 The Gods visit the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\053 The Gods remind Sarvarthasiddha of his Duties.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\054 Sarvarthasiddha is presented with Three Palaces.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\055 The City is prepared for Sarvarthasiddhas trip outside the Palace.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\056 Sarvarthasiddha sees an Old Man.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\057 Sarvarthasiddha encounters a Sick Man.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\058 Sarvarthasiddha sees Someone who has Died.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\059 Sarvarthasiddha meets a Monk.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\060 Gopa tells her Nightmare to Sarvarthasiddha.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\061 King Suddhodana gives permission for Sarvarthasiddha to leave the Palace.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\062 Gautami brings beautiful women for the Prince.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\063 Sarvarthasiddha is appalled by the attitudes of the Sleeping Women.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\064 Sarvarthasiddha leaves the Palace.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\065 Sarvarthasiddha begins his long Journey into Exile on the horse Kanthaka.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\066 The Gods are dismissed by Sarvarthsiddha.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\067 Sarvarthasiddha cuts off his Hair.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\068 Sarvarthasiddha changes his Clothes.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\069 The Gods revere the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\070 The Bodhisattva roams and comes to Padmas Hermitage.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\071 The Bodhisattva meets with Arada Kalama.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\072 Arada Kalama offers the Bodhisattva Joint Leadership.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\073 King Bimbisara offers alms to the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\074 King Bimbisara venerates the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\075 The Bodhisattva meets with Rudraka Ramaputra.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\076 The Bodhisattva begins Meditation in Caves with the Group of Five.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\077 The Bodhisattva during his Life of Austerity.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\078 The Bodhisattvas Mother tries to persuade him to give up his Austerities.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\079 Mara tries to persuade the Bodhisattva to stop Striving.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\080 The Gods offer to give Nourishment to the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\081 The Daughters of the Village Head offer Food to the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\082 The Bodhisattva washes Radhas Shroud.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\083 The Gods offer Clean Clothes to the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\084 Sujata presents food to the Bodhisattva in her Home.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\085 The Bodhisattva takes the bowl and goes to the River to Bathe.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\086 The Gods assist the Bodhisattva as he bathes and then collect the Relics.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\087 A Nagi offers the Bodhisattva a Throne.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\088 The Bodhisattva eats the remainder of his Food.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\089 The Bodhisattva disposes of the Bowl.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\090 Svastika gives Grass to the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\091 The Gods worship the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\092 The Gods decorate Bodhi Trees hoping the Bodhisattva will sit there.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\093 Bodhisattvas pay homage to our Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\094 Mara and his Army attack the Bodhisattva who calls the Earth to Witness.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\095 Mara sends his Daughters to entice the Bodhisattva.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\096 The Bodhisattva attains Awakening and becomes the Buddha.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\097 Umbrellas.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\098 The Gods bathe the Buddha (end of first week).jpg" />
+    <EmbeddedResource Include="Resources\slidepics\099 The Buddha showing the Fearless Sign (third week).jpg" />
+    <EmbeddedResource Include="Resources\slidepics\100 The Buddha traversing from Ocean to Ocean (fourth week).jpg" />
+    <EmbeddedResource Include="Resources\slidepics\101 The Buddha meets Mucilinda (fifth week).jpg" />
+    <EmbeddedResource Include="Resources\slidepics\102 The Buddha meets Ascetics in the Vicinity (sixth week).jpg" />
+    <EmbeddedResource Include="Resources\slidepics\103 The Buddha meets Trapusa and Bhallika (seventh week).jpg" />
+    <EmbeddedResource Include="Resources\slidepics\104 The Four Great Kings offer the Buddha four Bowls.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\105 The Buddha accepts the refined Curds in the Vessel called Candra.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\106 Sikhi Mahabrahma requests the Buddha to Teach.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\107 Sakra Lord of the Gods requests the Buddha to Teach.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\108 The Buddha agrees to Teach for the Benefit of Gods and Men.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\109 Beginning the Journey to Rsipatana.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\110 The Meeting with the Ajivaka Upaga.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\111 Naga Sudarsana at Aparagaya.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\112 Being Entertained at Rohitavastu.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\113 Being Entertained at Urubilvakalpa.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\114 Being Entertained at Sarathipura.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\115 The Buddha crosses the Ganges.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\116 The Buddha is offered Alms in Varanasi.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\117 The Buddha meets the Auspicious Group of Five.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\118 The Group of Five become Bhiksus.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\119 The Buddha is washed with scented water by the monks.jpg" />
+    <EmbeddedResource Include="Resources\slidepics\120 The Buddha turns the Wheel of the Dharma.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MvvmCross" Version="7.1.2" />
+    <PackageReference Include="MvvmCross.Forms" Version="7.1.2" />
+    <PackageReference Include="MvvmCross.Plugin.MethodBinding" Version="7.1.2" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DR.CeritaReliefAvadana.Core\DR.CeritaReliefAvadana.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\SlidesPage.xaml.cs">
+      <DependentUpon>SlidesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\ChaptersPage.xaml.cs">
+      <DependentUpon>ChaptersPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\LocalePickerPage.xaml.cs">
+      <DependentUpon>LocalePickerPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\StoriesPage.xaml.cs">
+      <DependentUpon>StoriesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Colors.xaml.cs">
+      <DependentUpon>%(Filename)</DependentUpon>
+    </Compile>
+    <Compile Update="Views\SlideContentView.xaml.cs">
+      <DependentUpon>SlideContentView.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\ChapterContentView.xaml.cs">
+      <DependentUpon>ChapterContentView.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Pages\StoriesPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Resources\Colors.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\StoryContentView.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <Import Project="$(MSBuildThisFileDirectory)..\solution.common.targets" />
+
+</Project>
