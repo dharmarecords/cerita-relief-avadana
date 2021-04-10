@@ -4,6 +4,8 @@
 
 Android and iOS app for Cerita Relief Avadana.
 
+<a href='https://play.google.com/store/apps/details?id=net.photodharma.apps.avadana' style="margin-top: 100px; padding: 0px"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="64" style="margin: 0px; padding: 0px"/></a>
+
 ## Requirements
 
 - Show the photos one by one with description text
@@ -31,7 +33,7 @@ Android and iOS app for Cerita Relief Avadana.
 
 ### Examples
 
-- [Avadana](https://www.photodharma.net/ancient-buddhist-texts.net/Reference/Early-Buddhist-Texts/06-EBT-Avadana.htm)
+- [Avadana](https://www.photodharma.net/Indonesia/06-Avadana-Stories/06-Avadana-Stories.htm#toc0)
 
 ## Development
 
