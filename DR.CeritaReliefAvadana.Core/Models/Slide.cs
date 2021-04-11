@@ -6,6 +6,6 @@ namespace DR.CeritaReliefAvadana.Core.Models
 
         public LocalizedString Name { get; set; }
 
-        public LocalizedString Caption { get; set; }
+        public LocalizedStringList Caption { get; set; }
     }
 }

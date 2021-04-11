@@ -8,6 +8,8 @@ namespace DR.CeritaReliefAvadana.Core.Models
 
         public LocalizedString Name { get; set; }
 
+        public Introduction Introduction { get; set; }
+
         public IEnumerable<Slide> Slides { get; set; }
     }
 }

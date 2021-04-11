@@ -12,8 +12,6 @@ namespace DR.CeritaReliefAvadana.Core.Models
 
         public string Author { get; set; }
 
-        public bool Enabled { get; set; }
-
         public IEnumerable<Chapter> Chapters { get; set; }
     }
 }

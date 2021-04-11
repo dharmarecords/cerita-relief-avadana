@@ -35,7 +35,6 @@ namespace DR.CeritaReliefAvadana.Core.ViewModels.Stories
 
             _ = _storiesRepository
                 .GetStories()
-                .Where(s => s.Enabled)
                 .Select(_mapper.Map<StoryViewModel>)
                 .Aggregate(Stories, (acc, e) => { acc.Add(e); return acc; });
         }
