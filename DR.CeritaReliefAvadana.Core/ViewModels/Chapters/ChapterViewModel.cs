@@ -13,11 +13,13 @@ namespace DR.CeritaReliefAvadana.Core.ViewModels.Chapters
         private readonly IMvxNavigationService _navigationService;
         private readonly IStoriesRepository _storiesRepository;
 
-        public string Id { get; set; }
-
         public string StoryId { get; set; }
 
+        public string Id { get; set; }
+
         public string Name { get; set; }
+
+        public IntroductionViewModel Introduction { get; set; }
 
         public ICommand SelectChapterCommand => new MvxCommand(async () => await SelectChapterAsync());
 

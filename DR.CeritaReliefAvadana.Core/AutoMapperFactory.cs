@@ -21,14 +21,25 @@ namespace DR.CeritaReliefAvadana.Core
                 cfg.ConstructServicesUsing(resolver);
                 cfg.CreateMap<Story, ViewModels.Stories.StoryViewModel>().ConstructUsingServiceLocator();
                 cfg.CreateMap<Chapter, ViewModels.Chapters.ChapterViewModel>().ConstructUsingServiceLocator();
+                cfg.CreateMap<Introduction, ViewModels.Chapters.IntroductionViewModel>().ConstructUsingServiceLocator();
                 cfg.CreateMap<Slide, ViewModels.Slides.SlideViewModel>().ConstructUsingServiceLocator();
                 cfg.CreateMap<LocalizedString, string>().ConvertUsing(ls => ls.ToString(appSettings));
+                cfg.CreateMap<LocalizedStringList, string[]>().ConvertUsing(ls => ls.ToStringList(appSettings));
             });
 
             return mapperConfiguration.CreateMapper();
         }
 
         private static string ToString(this LocalizedString @this, IAppSettingsService appSettings)
+        {
+            return appSettings.Locale == "en"
+                ? @this?.En
+                : appSettings.Locale == "id"
+                    ? @this?.Id
+                    : throw new NotImplementedException();
+        }
+
+        private static string[] ToStringList(this LocalizedStringList @this, IAppSettingsService appSettings)
         {
             return appSettings.Locale == "en"
                 ? @this?.En

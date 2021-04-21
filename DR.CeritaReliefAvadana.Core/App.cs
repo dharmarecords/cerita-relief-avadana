@@ -21,6 +21,7 @@ namespace DR.CeritaReliefAvadana.Core
             Mvx.IoCProvider.RegisterType<Services.IDeviceDisplayInfo, UI.Services.DeviceDisplayInfo>();
             Mvx.IoCProvider.RegisterType<ViewModels.Stories.StoryViewModel, ViewModels.Stories.StoryViewModel>();
             Mvx.IoCProvider.RegisterType<ViewModels.Chapters.ChapterViewModel, ViewModels.Chapters.ChapterViewModel>();
+            Mvx.IoCProvider.RegisterType<ViewModels.Chapters.IntroductionViewModel, ViewModels.Chapters.IntroductionViewModel>();
             Mvx.IoCProvider.RegisterType<ViewModels.Slides.SlideViewModel, ViewModels.Slides.SlideViewModel>();
 
             RegisterCustomAppStart<AppStart>();

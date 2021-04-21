@@ -56,10 +56,13 @@ namespace DR.CeritaReliefAvadana.Core.ViewModels.Slides
 
         private IEnumerable<Slide> CreateSlidesForChapter(string storyId, Chapter c)
         {
-            var chapterSlide = new[] { new Slide { Name = c.Name } };
+            var implicitSlides = new[] {
+                new Slide { Name = c.Name },
+                new Slide { Name = c.Introduction.Background, Caption = c.Introduction.Text },
+            };
             var slides = _storiesRepository.GetSlides(storyId, c.Id);
 
-            return chapterSlide.Concat(slides);
+            return implicitSlides.Concat(slides);
         }
     }
 }
