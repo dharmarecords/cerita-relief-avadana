@@ -33,6 +33,7 @@ Android and iOS app for Cerita Relief Avadana.
 
 ### Examples
 
+- [Avadana PDF](https://www.photodharma.net/Books/Avadana.pdf)
 - [Avadana](https://www.photodharma.net/Indonesia/06-Avadana-Stories/06-Avadana-Stories.htm#toc0)
 
 ## Development
