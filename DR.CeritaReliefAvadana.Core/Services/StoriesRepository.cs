@@ -35,9 +35,8 @@ namespace DR.CeritaReliefAvadana.Core.Services
         {
             var chapters = GetChapters(storyId).Reverse().TakeWhile(c => c.Id != chapterId);
             return chapters.SelectMany(c => c.Slides).Count()
-                + chapters.Count()
-                + GetSlides(storyId, chapterId).Count()
-                - 2;
+                + (2 * chapters.Count())
+                + GetSlides(storyId, chapterId).Count();
         }
 
         private void LoadStories()

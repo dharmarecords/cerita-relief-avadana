@@ -16,6 +16,7 @@
 
   <ContentView.Content>
     <StackLayout>
+      <!-- Case 0: A chapter header -->
       <Label
         IsVisible="{Binding IsAChapterHeader}"
         Grid.Row="1"
@@ -24,14 +25,52 @@
         FontSize="Large"
         Text="{Binding Name}"
       />
+
+      <!-- Case 1: A chapter intro slide -->
+      <Grid
+        IsVisible="{Binding IsAChapterIntro}"
+        Margin="5"
+      >
+        <Grid.RowDefinitions>
+          <RowDefinition Height="Auto" />
+          <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label
+          Grid.Row="0"
+          HorizontalOptions="Center"
+          FontAttributes="Italic"
+          Text="{Binding Name}"
+        />
+        <ListView 
+          Grid.Row="1"          
+          ItemsSource="{Binding Caption}"
+          SelectionMode="None"
+          HasUnevenRows="True"
+        >
+          <ListView.ItemTemplate>
+            <DataTemplate>
+              <ViewCell>
+                <ViewCell.View>
+                  <Label Text="{Binding}" Margin="0,5,0,5" />
+                </ViewCell.View>
+              </ViewCell>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </Grid>
+
+      <!-- A slide -->
       <Grid
         IsVisible="{Binding IsASlide}"
         Margin="5"
       >
         <Grid.RowDefinitions>
+          <RowDefinition Height="Auto" />
+          <RowDefinition Height="Auto" />
           <RowDefinition Height="*" />
-          <RowDefinition Height="Auto" />
-          <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
           <ColumnDefinition Width="Auto" />
@@ -41,6 +80,7 @@
           Grid.Row="0"
           Aspect="AspectFit"
           HeightRequest="{Binding HeightRequest}"
+          WidthRequest="{Binding WidthRequest}"
           Source="{Binding Path, Converter={StaticResource str2imgsrc}, ConverterParameter='Resources.slidepics'}"
         />
         <Label
@@ -49,12 +89,23 @@
           FontAttributes="Bold"
           Text="{Binding Name}"
         />
-        <Label
-          Grid.Row="2"
-          VerticalOptions="Start"
-          VerticalTextAlignment="Start"
-          Text="{Binding Caption}"
-        />
+        <ListView 
+          Grid.Row="2"          
+          VerticalOptions="Center"
+          ItemsSource="{Binding Caption}"
+          SelectionMode="None"
+          HasUnevenRows="True"
+        >
+          <ListView.ItemTemplate>
+            <DataTemplate>
+              <ViewCell>
+                <ViewCell.View>
+                  <Label Text="{Binding}" VerticalOptions="CenterAndExpand" Margin="0,5,0,5" />
+                </ViewCell.View>
+              </ViewCell>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
       </Grid>
     </StackLayout>
   </ContentView.Content>

@@ -20,12 +20,13 @@ namespace DR.CeritaReliefAvadana.Core.Test.Services
         }
 
         [Theory]
-        [InlineData("1", 130)]
-        [InlineData("2", 89)]
-        [InlineData("4", 67)]
-        [InlineData("5", 59)]
-        [InlineData("6", 32)]
-        [InlineData("7", 14)]
+        [InlineData("1", 138)]
+        [InlineData("2", 96)]
+        [InlineData("3", 76)]
+        [InlineData("4", 72)]
+        [InlineData("5", 63)]
+        [InlineData("6", 35)]
+        [InlineData("7", 16)]
         public void TestGetInitialSlideIndex(string chapterId, int initialSlideIndex)
         {
             var sr = new StoriesRepository();

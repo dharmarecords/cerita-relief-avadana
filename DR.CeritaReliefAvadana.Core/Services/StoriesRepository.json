@@ -383,6 +383,10 @@
             }
           },
           {
+            "name": {
+              "en": "Note",
+              "id": "Catatan"
+            },
             "caption": {
               "en": [
                 "Neither Foucher nor Krom have much to say about the following ten reliefs, and the story or stories they illustrate are unknown. I will describe the reliefs in sufficient detail pointing out items of interest."
@@ -563,12 +567,16 @@
             }
           },
           {
+            "name": {
+              "en": "Note",
+              "id": "Catatan"
+            },
             "caption": {
               "en": [
-                "Both Foucher—and with considerably more doubts—Krom, assign the next eight reliefs to a part of the story of King Māndhātā. Unfortunately when checking the sources it becomes apparent that the reliefs do not follow any known telling of the story, and certainly not the Divyāvadāna, which begins with the birth of the prince. The Māndhātā story appears to start only on relief no 39. I therefore describe what we can see on these reliefs without trying to force an interpretation on them that cannot be properly established, and sometimes even goes against the story we receive."
+                "Both Foucher — and with considerably more doubts — Krom, assign the next eight reliefs to a part of the story of King Māndhātā. Unfortunately when checking the sources it becomes apparent that the reliefs do not follow any known telling of the story, and certainly not the Divyāvadāna, which begins with the birth of the prince. The Māndhātā story appears to start only on relief no 39. I therefore describe what we can see on these reliefs without trying to force an interpretation on them that cannot be properly established, and sometimes even goes against the story we receive."
               ],
               "id": [
-                "Foucher—dan dengan lebih banyak keraguan—Krom, menetapkan delapan relief berikutnya sebagai bagian cerita Raja Māndhātā. Sayang ketika meneliti sumber-sumber, menjadi jelas bahwa relief-relief tersebut tidak mengikuti tuturan cerita mana pun, dan jelas bukan Divyāvadāna, yang dimulai dengan kelahiran pangeran. Cerita Māndhātā tampak dimulai hanya dari relief no. 39. Oleh karena itu saya menggambarkan apa yang dapat kita lihat dalam relief-relief ini tanpa mencoba memaksakan suatu penafsiran untuk relief yang tak dapat ditegakkan dengan pasti, dan kadang bahkan bertentangan dengan cerita yang kita terima."
+                "Foucher — dan dengan lebih banyak keraguan — Krom, menetapkan delapan relief berikutnya sebagai bagian cerita Raja Māndhātā. Sayang ketika meneliti sumber-sumber, menjadi jelas bahwa relief-relief tersebut tidak mengikuti tuturan cerita mana pun, dan jelas bukan Divyāvadāna, yang dimulai dengan kelahiran pangeran. Cerita Māndhātā tampak dimulai hanya dari relief no. 39. Oleh karena itu saya menggambarkan apa yang dapat kita lihat dalam relief-relief ini tanpa mencoba memaksakan suatu penafsiran untuk relief yang tak dapat ditegakkan dengan pasti, dan kadang bahkan bertentangan dengan cerita yang kita terima."
               ]
             }
           },
@@ -918,6 +926,10 @@
             }
           },
           {
+            "name": {
+              "en": "Note",
+              "id": "Catatan"
+            },
             "caption": {
               "en": [
                 "Foucher—and Krom following him—connects this relief and the next two with the previous story. They both have doubts about the connection though, and there seems to be little textual support for the connection. I therefore treat these as a separate, but unknown, story."
@@ -1194,6 +1206,10 @@
             }
           },
           {
+            "name": {
+              "en": "Note",
+              "id": "Catatan"
+            },
             "caption": {
               "en": [
                 "Krom identifies the next three reliefs as belonging to the Sambulā (Ja 519) story. But the reliefs hardly support such a reading, and go against the story as we know it. ",
@@ -1668,6 +1684,10 @@
             }
           },
           {
+            "name": {
+              "en": "Note",
+              "id": "Catatan"
+            },
             "caption": {
               "en": [
                 "The next three panels are assigned by Foucher and Krom to the Rudrāyaṇa story, but on the flimsiest of evidence. In that story it is mentioned in one sentence that after the fall of diamonds in Roruka, the good ministers Hiru and Bhiru sailed away and founded eponymous cities.",
@@ -2203,6 +2223,10 @@
             }
           },
           {
+            "name": {
+              "en": "Note",
+              "id": "Catatan"
+            },
             "caption": {
               "en": [
                 "The remaining panels on this wall have not yet been identified."
