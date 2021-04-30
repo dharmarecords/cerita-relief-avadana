@@ -16,7 +16,7 @@ namespace DR.CeritaReliefAvadana.Core.ViewModels.Slides
 
         public string Path { get; set; }
 
-        public double HeightRequest => _deviceDisplayInfo.Width / 1000 * 310;
+        public double HeightRequest => _deviceDisplayInfo.Width / 1000 * 305;
 
         public double WidthRequest => _deviceDisplayInfo.Width - 10; // NOTE: 10 = 2 x 5 margin.
 
