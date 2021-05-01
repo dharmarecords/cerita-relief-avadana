@@ -1,6 +1,8 @@
 namespace DR.CeritaReliefAvadana.Core.ViewModels.Slides
 {
+    using System.Collections.ObjectModel;
     using System.Diagnostics.CodeAnalysis;
+    using System.Linq;
     using DR.CeritaReliefAvadana.Core.Services;
     using MvvmCross.ViewModels;
 
@@ -16,6 +18,16 @@ namespace DR.CeritaReliefAvadana.Core.ViewModels.Slides
 
         public string Path { get; set; }
 
+        private readonly ObservableCollection<IntroSlideTextLine> _introSlideTextLines = new ObservableCollection<IntroSlideTextLine>();
+        public ObservableCollection<IntroSlideTextLine> IntroSlideTextLines
+        {
+            get
+            {
+                FillIntroSlideTextLines();
+                return _introSlideTextLines;
+            }
+        }
+
         public double HeightRequest => _deviceDisplayInfo.Width / 1000 * 305;
 
         public double WidthRequest => _deviceDisplayInfo.Width - 10; // NOTE: 10 = 2 x 5 margin.
@@ -28,6 +40,25 @@ namespace DR.CeritaReliefAvadana.Core.ViewModels.Slides
         public SlideViewModel(IDeviceDisplayInfo deviceDisplayInfo)
         {
             _deviceDisplayInfo = deviceDisplayInfo;
+        }
+
+        public void FillIntroSlideTextLines()
+        {
+            if (!IsAChapterIntro || _introSlideTextLines.Any())
+            {
+                return;
+            }
+
+            _introSlideTextLines.Add(new IntroSlideTextLine { Text = Name, Emphasis = true, });
+            _ = Caption
+                .Select(c => new IntroSlideTextLine { Text = c, Emphasis = false, })
+                .Aggregate(
+                    _introSlideTextLines,
+                    (acc, e) =>
+                    {
+                        acc.Add(e);
+                        return acc;
+                    });
         }
     }
 }

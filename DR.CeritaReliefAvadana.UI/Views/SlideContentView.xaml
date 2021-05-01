@@ -11,6 +11,7 @@
   <v:MvxContentView.Resources>
     <ResourceDictionary>
       <c:StringToImageSourceConverter x:Key="str2imgsrc" />
+      <c:EmphasisToFontAttributeConverter x:Key="e2fa" />
     </ResourceDictionary>
   </v:MvxContentView.Resources>
 
@@ -32,29 +33,28 @@
         Margin="5"
       >
         <Grid.RowDefinitions>
-          <RowDefinition Height="Auto" />
           <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
           <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <Label
-          Grid.Row="0"
-          HorizontalOptions="Center"
-          FontAttributes="Italic"
-          Text="{Binding Name}"
-        />
         <ListView 
-          Grid.Row="1"          
-          ItemsSource="{Binding Caption}"
+          Grid.Row="0"
+          ItemsSource="{Binding IntroSlideTextLines}"
           SelectionMode="None"
           HasUnevenRows="True"
+          SeparatorColor="Transparent"          
         >
           <ListView.ItemTemplate>
             <DataTemplate>
               <ViewCell>
                 <ViewCell.View>
-                  <Label Text="{Binding}" Margin="0,5,0,5" />
+                  <Label 
+                    Text="{Binding Text}" 
+                    FontAttributes="{Binding Emphasis, Converter={StaticResource e2fa}, ConverterParameter=''}" 
+                    Margin="0,1,0,1" 
+                    IsVisible="{Binding IsNotEmpty}" 
+                  />
                 </ViewCell.View>
               </ViewCell>
             </DataTemplate>
@@ -93,6 +93,7 @@
           Grid.Row="2"          
           VerticalOptions="Center"
           ItemsSource="{Binding Caption}"
+          SeparatorColor="Transparent"
           SelectionMode="None"
           HasUnevenRows="True"
         >

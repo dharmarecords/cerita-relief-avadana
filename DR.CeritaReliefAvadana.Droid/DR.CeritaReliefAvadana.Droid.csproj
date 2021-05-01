@@ -141,7 +141,7 @@
   </Target>
   <ProjectExtensions>
     <VisualStudio>
-      <UserProperties XamarinHotReloadDebuggerTimeoutExceptionBorobudurReliefStoriesDroidHideInfoBar="True" TriggeredFromHotReload="False" />
+      <UserProperties TriggeredFromHotReload="False" XamarinHotReloadDebuggerTimeoutExceptionBorobudurReliefStoriesDroidHideInfoBar="True" />
     </VisualStudio>
   </ProjectExtensions>
 </Project>

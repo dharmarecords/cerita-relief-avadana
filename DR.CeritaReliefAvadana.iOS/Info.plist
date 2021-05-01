@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>Cerita Relief Borobudur: Avadana</string>
+	<string>Avadana: Cerita Relief Borobudur</string>
 	<key>CFBundleIdentifier</key>
 	<string>net.photodharma.apps.avadana</string>
 	<key>CFBundleShortVersionString</key>
